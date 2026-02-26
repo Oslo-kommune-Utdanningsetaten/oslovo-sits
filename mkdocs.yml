@@ -1,0 +1,43 @@
+site_name: Rutiner for SITS
+
+theme:
+    language: nb 
+    name: material
+    logo: assets/images/logo.png
+    features:
+        - navigation.tabs
+        - navigation.sections
+    palette:
+      primary: teal
+    icon:
+      annotation: material/image-outline
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.keys
+  - abbr
+  - attr_list
+  - pymdownx.snippets
+  - md_in_html
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      
+  
+extra:
+  generator: false
+
+extra_css:
+  - stylesheets/extra.css
+
+  
+  
+plugins:
+  - search
+  - git-revision-date-localized:
+      fallback_to_build_date: false
+  - glightbox
