@@ -1,12 +1,40 @@
 site_name: Rutiner for SITS
 
+nav:
+  - Lærer:
+      - Index: laerer/index.md
+      - Testdokument: laerer/testdokument.md
+
+  - Administrasjon:
+      - Index: admin/index.md
+
+      - Felles:
+          - felles_1: admin/felles/felles_1.md
+          - felles_2: admin/felles/felles_2.md
+
+      - Norsk:
+          - norsk_1: admin/norsk/norsk_1.md
+          - norsk_2: admin/norsk/norsk_2.md
+
+      - ITO:
+          - ITO_1: admin/ito/ito_1.md
+          - ITO_1: admin/ito/ito_1.md
+
+      - FOV:
+          - FOV_1: admin/fov/fov_1.md
+          - FOV_2: admin/fov/fov_2.md
+
+      - Servicesenter:
+          - Servicesenter_1: admin/sese/sese_1.md
+          - Servicesenter_2: admin/sese/sese_2.md
+
 theme:
     language: nb 
     name: material
     logo: assets/images/logo.png
     features:
         - navigation.tabs
-        - navigation.sections
+        - navigation.indexes
     palette:
       primary: teal
     icon:
