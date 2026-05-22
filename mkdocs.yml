@@ -11,6 +11,8 @@ nav:
       - Felles:
           - felles_1: admin/felles/felles_1.md
           - felles_2: admin/felles/felles_2.md
+          - Melde deltaker på og av kurs: admin/felles/registrere_deltakere_til_kurs.md
+          - Registrere nytt individ: admin/felles/registrere_nytt_individ.md
 
       - Norsk:
           - norsk_1: admin/norsk/norsk_1.md
@@ -27,6 +29,8 @@ nav:
       - Servicesenter:
           - Servicesenter_1: admin/sese/sese_1.md
           - Servicesenter_2: admin/sese/sese_2.md
+          - Fritak fra norsk og samfunnskunnskap 1: admin/sese/ved_fri_nor_sam_1.md
+          - Fritak fra norsk og samfunnskunnskap 2: admin/sese/ved_fri_nor_sam_2.md
 
 theme:
     language: nb 
@@ -38,7 +42,7 @@ theme:
     palette:
       primary: teal
     icon:
-      annotation: material/image-outline
+      annotation: material/chevron-right-circle
 
 markdown_extensions:
   - admonition
@@ -54,6 +58,7 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
+  - tables
       
   
 extra:

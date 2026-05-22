@@ -1,31 +1,29 @@
-Test git: git --version
-Tilgang til org 
-VSCode med Python extension
+# Elementer
 
-Fra CMD (per maskin)
-git config --global user.name "Brukernavn"
-git config --global user.email "your.email@example.com"
+NOVO TEST (1).
+{ .annotate }
 
-Fra VSCode Terminal
-kjør: git clone https://github.com/Oslo-kommune-Utdanningsetaten/oslovo-sits.git
+1.  | Kode | Beskrivelse |
+    |------|-------------|
+    | NOSF | Deltaker trenger opplæring i samfunnskunnskap |
+    | NO | Deltaker trenger bare opplæring i norsk |
+    | SF | Deltaker trenger bare opplæring i samfunnskunnskap |
+
+2.  | Kode | Beskrivelse |
+    |------|-------------|
+    | NOSF | Deltaker trenger opplæring i test |
+    | NO | Deltaker trenger bare opplæring i norsk |
+    | SF | Deltaker trenger bare opplæring i samfunnskunnskap |
 
 
 
-Kjør før hvær endring: git checkout -b feature/setup-mkdocs
-Skal si: Switched to a new branch 'feature/add-readme'
+NOVO TEST (1)
+{ .annotate }
 
-Eller hvis vi ikke ønske en ny branch: git checkout feature/setup-mkdocs
+1.  - Input 1 (1)
+    - Input 2 (2)
+    {: .annotate }
 
-Lag filer i mappen (cd MAPPE)
+    1.  :woman_raising_hand: I'm an annotation as well!
 
-legg til alt: git add .
-
-Se status: git status
-
-Sjekk: git remote -v
-
-Klargjør: git commit -m "Kommentar"
-
-Send til Github: git push origin NAVNpåBRANCHellerMAIN
-
-Fix med gh-deploy
+    2.  :woman_raising_hand: I'm an test as well!
