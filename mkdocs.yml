@@ -1,36 +1,62 @@
 site_name: Rutiner for SITS
 
 nav:
-  - Lærer:
-      - Index: laerer/index.md
-      - Testdokument: laerer/testdokument.md
+    - Lærer:
+        - Index: laerer/index.md
+        - Testdokument: laerer/testdokument.md
 
-  - Administrasjon:
-      - Index: admin/index.md
+    - Administrasjon:
+        - Index: admin/index.md
 
-      - Felles:
-          - felles_1: admin/felles/felles_1.md
-          - felles_2: admin/felles/felles_2.md
-          - Melde deltaker på og av kurs: admin/felles/registrere_deltakere_til_kurs.md
-          - Registrere nytt individ: admin/felles/registrere_nytt_individ.md
+        - Felles:
+            - Håndtere fødselsnummer: admin/felles/admin_fnr.md
+            - Registrere nytt individ: admin/felles/registrere_individ.md
+            - Registrere nytt deltaker: admin/felles/registrere_deltaker.md
+            - Melde deltaker på og av kurs: admin/felles/påmelde_deltaker.md
+            - Endre på deltaker: admin/felles/oppdatere_deltakerinfo.md
+            - Gyldige kombinasjoner i SPR: admin/felles/gyldige_kombinasjoner.md
+            - Håndtere avdøde deltakere: admin/felles/avdød_person.md
+            - Se timeplaner: admin/felles/timeplan.md
+            - Få refusjon av skysspenger: admin/felles/refusjon_skysspenger.md
+            - Finne undervisningsrom: admin/felles/finne_undervisningsrom.md
 
-      - Norsk:
-          - norsk_1: admin/norsk/norsk_1.md
-          - norsk_2: admin/norsk/norsk_2.md
+        - Norsk:
+            - Gi timebekreftelse: admin/norsk/timebekreftelse.md
+            - Deltakere med utgående rett til gratis norskopplæring: admin/norsk/utgående_rett.md
+            - Rapporter for norsk: admin/norsk/rapporter_norsk.md
+            - Håndtering av betalende deltakere: admin/norsk/betalende_deltakere.md
+            - Fatte vedtak: admin/norsk/fatte_vedtak.md
+            - Håndtere permisjoner i opplæring: admin/norsk/permisjoner_norsk.md
+            - Håndtere norskprøver i SITS: admin/norsk/norskprøver.md
+            - Overføre timer til NiR: admin/norsk/overføre_nir.md
+            - Deltakere som endrer rettigheter: admin/norsk/endring_rettighet.md
+            - Endring av norskplan: admin/norsk/endring_norskplan.md
+            - Håndtering av deltakere betalt av NAV-tiltak: admin/norsk/nav_tiltak.md
+            - Håndtering av deltakere med kollektiv beskyttelse: admin/norsk/kollektiv_beskyttelse.md
+            - Håndtering av deltakere i introduksjonsprogram: admin/norsk/introduksjonsprogram.md
+        
+        - ITO,IT,TO:
+            - Ikke-timeplanlagt undervisning: admin/ito/ikke_timeplanlagt.md
+            - Fatte vedtak: admin/ito/vedtak.md
 
-      - ITO:
-          - ITO_1: admin/ito/ito_1.md
-          - ITO_1: admin/ito/ito_1.md
+        - FOV:
+            - Sjekk av datakvalitet: admin/fov/datakvalitet.md
+            - Endre moduler og rettigheter: admin/fov/modul_endring.md
+            - Realkompetansevurdering: admin/fov/rkv.md
 
-      - FOV:
-          - FOV_1: admin/fov/fov_1.md
-          - FOV_2: admin/fov/fov_2.md
+        - Servicesenter:
+            - Opprette og behandle søknad: admin/sese/søknad.md
+            - Kartlegge deltaker: admin/sese/kartlegging.md
+            - Behandle fritak: admin/sese/fritak.md
+            - Utsatt oppstart: admin/sese/utsatt_start.md
+            - Fatte vedtak: admin/sese/vedtak.md
+            - Deltakere som bare skal ha samfunnskunnskap: admin/sese/kun_samfo.md
 
-      - Servicesenter:
-          - Servicesenter_1: admin/sese/sese_1.md
-          - Servicesenter_2: admin/sese/sese_2.md
-          - Fritak fra norsk og samfunnskunnskap 1: admin/sese/ved_fri_nor_sam_1.md
-          - Fritak fra norsk og samfunnskunnskap 2: admin/sese/ved_fri_nor_sam_2.md
+    - Superbrukere:
+        - Index: superbruker/index.md
+
+        - Håndtere avdøde deltakere: superbruker/avdød_person.md
+        - Slette ACD: superbruker/slette_acd.md
 
 theme:
     language: nb 
@@ -53,7 +79,9 @@ markdown_extensions:
   - pymdownx.keys
   - abbr
   - attr_list
-  - pymdownx.snippets
+  - pymdownx.snippets:
+        auto_append:
+            - includes/abbreviations.md
   - md_in_html
   - def_list
   - pymdownx.tasklist:
