@@ -1,40 +1,60 @@
 # Timebekreftelse til deltaker
 
-??? quote "Hvorfor gjør vi dette?"
-    Bekreftelse på deltatte timer kan brukes som dokumentasjon ved søknad om fritak fra opplæring, permanent opphold eller statsborgerskap.
 
-    En deltaker kan og etterspørre dokumentasjon om deltatte timer for andre formål.
+??? quote "Brukerinput for NOVO VEDTAK"
 
-
-
-## Lage timebekreftelse
-
-1. Slå opp deltaker i STU [![Preview](../../assets/images/gallery.svg){ width="15" }](../../assets/animation/animation2.gif){.glightbox}
-2. Generer NOVO TIMBEK [![Preview](../../assets/images/gallery.svg){ width="15" }](../../assets/animation/animation2.gif){.glightbox}
-
-    ??? quote "Brukerinput for NOVO TIMBEK"
-
-        <div class="srl-table">
+    <div class="srl-table">
                 
-        | Boks | Brukerinput | Beskrivelse |
-        |------|----------------|----------------|
-        | **Fravær skal være med? (J/N)** | N | Fravær tas ikke med i  timebekreftelsen. Dette skal alltid velges hvis bekreftelsen skal til UDI |
-        |  | J | Samlet fravær kommer med på timebekreftelsen. |
+    | Boks | Brukerinput | Beskrivelse |
+    |------|----------------|----------------|
+    | **Norskmål MUNTLIG Prøve (A1/A2/B1/B2/C1) Bestått norskfag (GS/VG)** | A1 | Prøve på nivå A1|
+    | **Norskmål MUNTLIG Prøve (A1/A2/B1/B2/C1) Bestått norskfag (GS/VG)** | A2 | Prøve på nivå A2|
+    | **Norskmål MUNTLIG Prøve (A1/A2/B1/B2/C1) Bestått norskfag (GS/VG)** | B1 | Prøve på nivå B1|
+    | **Norskmål MUNTLIG Prøve (A1/A2/B1/B2/C1) Bestått norskfag (GS/VG)** | B2 | Prøve på nivå B2|
+    | **Norskmål MUNTLIG Prøve (A1/A2/B1/B2/C1) Bestått norskfag (GS/VG)** | C1 | Prøve på nivå C1|
+    | **Norskmål MUNTLIG Prøve (A1/A2/B1/B2/C1) Bestått norskfag (GS/VG)** | GS | Bestått norsk på grunnskole |
+    | **Norskmål MUNTLIG Prøve (A1/A2/B1/B2/C1) Bestått norskfag (GS/VG)** | VG | Bestått norsk på videregående |
+    | **Norskmål SKRIVE Prøve (A1/A2/B1/B2/C1) Bestått norskfag (GS/VG)** | A1 | Prøve på nivå A1|
+    | **Norskmål SKRIVE Prøve (A1/A2/B1/B2/C1) Bestått norskfag (GS/VG)** | A2 | Prøve på nivå A2|
+    | **Norskmål SKRIVE Prøve (A1/A2/B1/B2/C1) Bestått norskfag (GS/VG)** | B1 | Prøve på nivå B1|
+    | **Norskmål SKRIVE Prøve (A1/A2/B1/B2/C1) Bestått norskfag (GS/VG)** | B2 | Prøve på nivå B2|
+    | **Norskmål SKRIVE Prøve (A1/A2/B1/B2/C1) Bestått norskfag (GS/VG)** | C1 | Prøve på nivå C1|
+    | **Norskmål SKRIVE Prøve (A1/A2/B1/B2/C1) Bestått norskfag (GS/VG)** | GS | Bestått norsk på grunnskole |
+    | **Norskmål SKRIVE Prøve (A1/A2/B1/B2/C1) Bestått norskfag (GS/VG)** | VG | Bestått norsk på videregående |
 
-        </div>
+    </div>
 
-3. Gå til "Goto" "Related documents"
-4. Trykk på "Preview" og se gjennom brevet
 
-    ??? warning "Hvis det kommer rød tekst på toppen av brevet"
-        Kommer det rød tekst på toppen av brevet er det fordi deltaker ikke har noen registrerte timer på norskkurs i SITS.
-        Vi dokumenterer ikke at de ikke har tatt noen timer.
-        1. Trykk på "Delete" for å slette brevet.
 
-5. SITS sender timebekreftelsen til Websak automatisk.
+    <div class="srl-table">
+                
+    | Boks | Brukerinput | Beskrivelse |
+    |------|----------------|----------------|
+    | **Norskmål MUNTLIG Prøve (A1/A2/B1/B2/C1) Bestått norskfag (GS/VG)** | A1 | Prøve på nivå A1|
+    | | A2 | Prøve på nivå A2|
+    |  | B1 | Prøve på nivå B1|
+    |  | B2 | Prøve på nivå B2|
+    |  | C1 | Prøve på nivå C1|
+    |  | GS | Bestått norsk på grunnskole |
+    |  | VG | Bestått norsk på videregående |
+    | **Norskmål SKRIVE Prøve (A1/A2/B1/B2/C1) Bestått norskfag (GS/VG)** | A1 | Prøve på nivå A1|
+    |  | A2 | Prøve på nivå A2|
+    |  | B1 | Prøve på nivå B1|
+    |  | B2 | Prøve på nivå B2|
+    |  | C1 | Prøve på nivå C1|
+    |  | GS | Bestått norsk på grunnskole |
+    |  | VG | Bestått norsk på videregående |
+    |  | *FRITEKST* | Bestått norsk på videregående |
 
-    ??? warning "Deltaker ønsker timebekreftelsen i hånden"
-        Det er mulig å skrive ut timebekreftelsen å gi til deltaker.
+    </div>
 
-        1.  Trykk på printer-ikonet
-        2.  Velg printer og skriv ut
+    <div class="srl-table">
+                
+    | Boks | Brukerinput | Beskrivelse |
+    |------|----------------|----------------|
+    | **Norskmål MUNTLIG Prøve (A1/A2/B1/B2/C1) Bestått norskfag (GS/VG)** | A1,A2,B1,B2,C1 | Målet er muntlig prøve på gitt norsknivå|
+    |  | GS, VG | Bestått norskfaget muntlig på grunnskole (GS) eller videregående (VG) nivå |
+    | **Norskmål SKRIVE Prøve (A1/A2/B1/B2/C1) Bestått norskfag (GS/VG)** | A1 | Målet er skriftlig prøve på gitt norsknivå|
+    |  | GS, VG | Bestått norskfaget skriftlig på grunnskole (GS) eller videregående (VG) nivå |
+
+    </div>

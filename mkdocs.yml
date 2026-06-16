@@ -3,7 +3,12 @@ site_name: Rutiner for SITS
 nav:
     - Lærer:
         - Index: laerer/index.md
-        - Testdokument: laerer/testdokument.md
+
+        - For alle lærere:
+            - Timeplaner: laerer/timeplan.md
+
+        - For lærere i FOV:
+            - Vedtak om særskilt språkopplæring: laerer/s_sp_ved.md
 
     - Administrasjon:
         - Index: admin/index.md
@@ -65,6 +70,7 @@ theme:
     features:
         - navigation.tabs
         - navigation.indexes
+        - content.annotations
     palette:
       primary: teal
     icon:

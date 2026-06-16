@@ -14,3 +14,5 @@
 *[NI]: Deltakere som ikke har fullført grunnskole
 *[NG]: Deltakere som har fullført grunnskole, men uten generell studiekompetanse
 *[NV]: Deltakere som har fullført grunnskole, med generell studiekompetanse
+
+*[FRITEKST]: Markerer at du skal skrive tekst for frihånd etter beskrivelse.
