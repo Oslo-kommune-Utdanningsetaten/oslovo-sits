@@ -49,6 +49,9 @@ nav:
             - Endre moduler og rettigheter: admin/fov/modul_endring.md
             - Realkompetansevurdering: admin/fov/rkv.md
 
+        - Andre tilbud:
+            - Utdanningsløftet: admin/andre_tilbud/utdanningsløftet.md
+
         - Servicesenter:
             - Opprette og behandle søknad: admin/sese/søknad.md
             - Kartlegge deltaker: admin/sese/kartlegging.md

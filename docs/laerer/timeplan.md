@@ -18,6 +18,42 @@
 
 === "Kalender som kan printes"
 
-    1. Trykk på **Vedtak om særskilt språkopplæring** under **Verktøy for lærere i norsk og grunnskole** [![Preview](../../assets/images/gallery.svg){ width="15" }](../assets/images/meny_evision_personalverktøy_lærer.png){.glightbox}
+    1. Trykk på **Din timeplan** under **Personalverktøy (Lærer)** [![Preview](../../assets/images/gallery.svg){ width="15" }](../assets/images/meny_evision_personalverktøy_lærer.png){.glightbox}
 
-    2. 
+    2. Fyll inn skjema
+
+        | Overskrift | Hva skal fylles inn? |
+        |------|----------------|
+        | Velg en dato | En dato i den uken du ønsker å se timeplan for |
+        | Skoleår | Skoleåret du ønsker å se timeplan for. Trengs bare å endres hvis du vil se historiske timeplaner. |
+        | Vise elever i klasselista? | Hvis *ja* kommer en liste av deltakerne  |
+
+    3. Trykk på **Utfør**
+
+        ??? info "Hvordan printer jeg?"
+            Det skal være mulig å printe denne timeplanen ved å trykke ctrl+P.
+
+
+## Timeplan for en deltaker
+
+1. Trykk på **Mine klasser/deltakere - aktive klasser** under **Verktøy for lærere i norsk og grunnskole** [![Preview](../../assets/images/gallery.svg){ width="15" }](../assets/images/meny_evision_verktøy_for_lærere.png){.glightbox}
+
+2. Bla ned til klassen deltaker er i
+
+3. Klikk på elevnummeret til deltaker du vil se timeplanen for
+
+4. Velg studieløpet som passer klassen deltaker er i
+
+5. Trykk på **Deltakerens timeplan**
+
+6. Fyll inn skjema
+
+    | Overskrift | Hva skal fylles inn? |
+    |------|----------------|
+    | Velg en dato | En dato i den uken du ønsker å se timeplan for |
+    | Skoleår | Skoleåret du ønsker å se timeplan for. Trengs bare å endres hvis du vil se historiske timeplaner. |
+
+7. Trykk på **Fullfør**
+
+    ??? info "Hvordan printer jeg?"
+            Det skal være mulig å printe denne timeplanen ved å trykke ctrl+P.
