@@ -3,45 +3,46 @@ site_name: Rutiner for SITS
 nav:
     - For lærere:
         - Index: laerer/index.md
-
         - For alle lærere:
-            - Innlogging i eVision: laerer/l01.md
-            - Timeplaner: laerer/l02.md
-            - Personsøk: laerer/l03.md
-            - Klasselister: laerer/l04.md
-            - Fraværsføring: laerer/l05.md
-            - Sluttføring: laerer/l06.md
-            - Opplasting deltakerdok.: laerer/l08.md
-            - Endring av norskplan: laerer/l09.md
-            - Utvidet norskopplæring: laerer/l10.md
-            - Påmelding norskprøver: laerer/l11.md
-            - Oppdatering av nivå for ny kursperiode: laerer/l12.md
-            - IP, IUP og samtalelogg: laerer/l13.md
-            - Lesekartlegging: laerer/l15.md
-            - Rask. Veileder for å merke deltaker som rask: laerer/l17.md
+            - Administrere egen konto: laerer/admin_konto.md
+            - Se og rediger personopplysninger: laerer/rediger_deltakerinformasjon.md
+            - Finn timeplaner: laerer/timeplan.md
+            - Se og rediger klasselister: laerer/klasselister.md
+            - Føre fravær: laerer/fravær.md
+            - Sluttføre deltaker: laerer/sluttføring.md
+            - Registrere deltaker til norskprøven: laerer/reg_norskprøve.md
+            - Oppdatere norsknivå: laerer/oppdater_nivå.md
+            - Registrere lesekartlegging: laerer/reg_lesekartlegging.md
+            - Se og rediger deltakerinformasjon : laerer/rediger_deltakerinformasjon.md
 
-        - For lærere i FOV:
-            - Vedtak om særskilt språkopplæring: laerer/l16.md
-            - Generere varselbrev om fare for ikke vurdering i fag: laerer/l14.md
+        - Bare for lærere i FOV:
+            - Vedtak om særskilt språkopplæring: laerer/s_sp.md
+            - Generere varselbrev om IV: laerer/varsel_iv.md
+            - Behandle IUP: laerer/behandle_iup.md
 
-        - For lærere i ITO:
-            - Deltakertimer SU: laerer/l07.md
+        - Bare for lærere i ITO:
+            - Registrering av ikke-timeplanlagt undervisning : laerer/ikke_timeplanlagt.md
+            - Bekrefte deltakelse: laerer/bekreft_deltakelse.md
+            - Føre samtalelogg: laerer/samtalelogg.md
 
     - Felles for administrasjon:
-        - Index: felles/index.md
-        - Bytte klasse på en deltaker: felles/bytte_klasse.md
-        - Få oversikt over deltaker: felles/deltaker_oversikt.md
-        - Bytte klasse på en deltaker: felles/bytte_klasse.md
-        - Melde deltakere på og av et kurs: felles/påmelde_deltaker.md
-        - Endre start- og sluttdato og kursstatus for en hendelseskode på en gitt deltaker: felles/endre_start_slutt.md
-        - Fikse datakvalitet: felles/datakvalitet.md
-        - Lage og slette kurs: felles/lage_kurs.md
-        - Endre rettigheter på en deltaker: felles/endre_rett.md
-        - Endre på kurs: felles/endre_kurs.md
-        - Oversikt over rapporter: felles/rapporter.md
-        - Behandle skjermede personer: felles/skjermet_person.md
-        - Skrive ut timeplaner: felles/generere_timeplan.md
-        - Rapport for skyssrefusjon: felles/skyss.md
+        - Bruk av SITS Live:
+            - Index: felles/index.md
+        - Deltakerbehandling:
+            - Bytte klasse på en deltaker: felles/bytte_klasse.md
+            - Få oversikt over deltaker: felles/deltaker_oversikt.md
+            - Endre rettigheter på en deltaker: felles/endre_rett.md
+            - Behandle skjermede personer: felles/skjermet_person.md
+            - Melde deltakere på og av et kurs: felles/påmelde_deltaker.md
+            - Endre start- og sluttdato og kursstatus for en hendelseskode på en gitt deltaker: felles/endre_start_slutt.md
+        - Oversikt og kontroll:
+            - Fikse datakvalitet: felles/datakvalitet.md
+            - Rapport for skyssrefusjon: felles/skyss.md
+            - Oversikt over rapporter: felles/rapporter.md
+            - Skrive ut timeplaner: felles/generere_timeplan.md
+        - Kursbehandling:
+            - Lage og slette kurs: felles/lage_kurs.md
+            - Endre på kurs: felles/endre_kurs.md
 
     - Norsk:
         - Index: norsk/index.md
