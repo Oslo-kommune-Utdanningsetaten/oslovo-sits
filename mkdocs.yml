@@ -1,70 +1,70 @@
 site_name: Rutiner for SITS
 
 nav:
-    - Lærer:
+    - For lærere:
         - Index: laerer/index.md
 
         - For alle lærere:
-            - Timeplaner: laerer/timeplan.md
+            - Innlogging i eVision: laerer/l01.md
+            - Timeplaner: laerer/l02.md
+            - Personsøk: laerer/l03.md
+            - Klasselister: laerer/l04.md
+            - Fraværsføring: laerer/l05.md
+            - Sluttføring: laerer/l06.md
+            - Opplasting deltakerdok.: laerer/l08.md
+            - Endring av norskplan: laerer/l09.md
+            - Utvidet norskopplæring: laerer/l10.md
+            - Påmelding norskprøver: laerer/l11.md
+            - Oppdatering av nivå for ny kursperiode: laerer/l12.md
+            - IP, IUP og samtalelogg: laerer/l13.md
+            - Lesekartlegging: laerer/l15.md
+            - Rask. Veileder for å merke deltaker som rask: laerer/l17.md
 
         - For lærere i FOV:
-            - Vedtak om særskilt språkopplæring: laerer/s_sp_ved.md
+            - Vedtak om særskilt språkopplæring: laerer/l16.md
+            - Generere varselbrev om fare for ikke vurdering i fag: laerer/l14.md
 
-    - Administrasjon:
-        - Index: admin/index.md
+        - For lærere i ITO:
+            - Deltakertimer SU: laerer/l07.md
 
-        - Felles:
-            - Håndtere fødselsnummer: admin/felles/admin_fnr.md
-            - Registrere nytt individ: admin/felles/registrere_individ.md
-            - Registrere nytt deltaker: admin/felles/registrere_deltaker.md
-            - Melde deltaker på og av kurs: admin/felles/påmelde_deltaker.md
-            - Endre på deltaker: admin/felles/oppdatere_deltakerinfo.md
-            - Gyldige kombinasjoner i SPR: admin/felles/gyldige_kombinasjoner.md
-            - Håndtere avdøde deltakere: admin/felles/avdød_person.md
-            - Se timeplaner: admin/felles/timeplan.md
-            - Få refusjon av skysspenger: admin/felles/refusjon_skysspenger.md
-            - Finne undervisningsrom: admin/felles/finne_undervisningsrom.md
+    - Felles for administrasjon:
+        - Index: felles/index.md
+        - Bytte klasse på en deltaker: felles/bytte_klasse.md
+        - Få oversikt over deltaker: felles/deltaker_oversikt.md
+        - Bytte klasse på en deltaker: felles/bytte_klasse.md
+        - Melde deltakere på og av et kurs: felles/påmelde_deltaker.md
+        - Endre start- og sluttdato og kursstatus for en hendelseskode på en gitt deltaker: felles/endre_start_slutt.md
+        - Fikse datakvalitet: felles/datakvalitet.md
+        - Lage og slette kurs: felles/lage_kurs.md
+        - Endre rettigheter på en deltaker: felles/endre_rett.md
+        - Endre på kurs: felles/endre_kurs.md
+        - Oversikt over rapporter: felles/rapporter.md
+        - Behandle skjermede personer: felles/skjermet_person.md
+        - Skrive ut timeplaner: felles/generere_timeplan.md
+        - Rapport for skyssrefusjon: felles/skyss.md
 
-        - Norsk:
-            - Gi timebekreftelse: admin/norsk/timebekreftelse.md
-            - Deltakere med utgående rett til gratis norskopplæring: admin/norsk/utgående_rett.md
-            - Rapporter for norsk: admin/norsk/rapporter_norsk.md
-            - Håndtering av betalende deltakere: admin/norsk/betalende_deltakere.md
-            - Fatte vedtak: admin/norsk/fatte_vedtak.md
-            - Håndtere permisjoner i opplæring: admin/norsk/permisjoner_norsk.md
-            - Håndtere norskprøver i SITS: admin/norsk/norskprøver.md
-            - Overføre timer til NiR: admin/norsk/overføre_nir.md
-            - Deltakere som endrer rettigheter: admin/norsk/endring_rettighet.md
-            - Endring av norskplan: admin/norsk/endring_norskplan.md
-            - Håndtering av deltakere betalt av NAV-tiltak: admin/norsk/nav_tiltak.md
-            - Håndtering av deltakere med kollektiv beskyttelse: admin/norsk/kollektiv_beskyttelse.md
-            - Håndtering av deltakere i introduksjonsprogram: admin/norsk/introduksjonsprogram.md
+    - Norsk:
+        - Index: norsk/index.md
+
         
-        - ITO,IT,TO:
-            - Ikke-timeplanlagt undervisning: admin/ito/ikke_timeplanlagt.md
-            - Fatte vedtak: admin/ito/vedtak.md
+    - Tilrettelagt opplæring:
+        - Index: ito/index.md
 
-        - FOV:
-            - Sjekk av datakvalitet: admin/fov/datakvalitet.md
-            - Endre moduler og rettigheter: admin/fov/modul_endring.md
-            - Realkompetansevurdering: admin/fov/rkv.md
 
-        - Andre tilbud:
-            - Utdanningsløftet: admin/andre_tilbud/utdanningsløftet.md
+    - FOV:
+        - Index: fov/index.md
 
-        - Servicesenter:
-            - Opprette og behandle søknad: admin/sese/søknad.md
-            - Kartlegge deltaker: admin/sese/kartlegging.md
-            - Behandle fritak: admin/sese/fritak.md
-            - Utsatt oppstart: admin/sese/utsatt_start.md
-            - Fatte vedtak: admin/sese/vedtak.md
-            - Deltakere som bare skal ha samfunnskunnskap: admin/sese/kun_samfo.md
+
+
+    - Andre tilbud:
+        - Utdanningsløftet: andre_tilbud/utdanningsløftet.md
+
+    - Servicesenter:
+        - Index: sese/index.md
+
 
     - Superbrukere:
         - Index: superbruker/index.md
-
-        - Håndtere avdøde deltakere: superbruker/avdød_person.md
-        - Slette ACD: superbruker/slette_acd.md
 
 theme:
     language: nb 

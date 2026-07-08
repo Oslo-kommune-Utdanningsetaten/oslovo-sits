@@ -1,0 +1,1 @@
+# Endre rettigheter på en deltaker

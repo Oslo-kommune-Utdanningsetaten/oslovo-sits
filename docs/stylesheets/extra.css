@@ -28,3 +28,12 @@
 .srl-table th:nth-child(1) {
   background: #F0F0F0;
 }
+
+
+.md-grid {
+    max-width: 90%;
+}
+
+.md-sidebar--primary {
+    width: 15rem;
+}

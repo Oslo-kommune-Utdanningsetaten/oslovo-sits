@@ -1,0 +1,1 @@
+# Sluttføre en deltaker

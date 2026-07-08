@@ -1,0 +1,1 @@
+# Behandle skjermede personer

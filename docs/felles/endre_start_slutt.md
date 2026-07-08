@@ -1,0 +1,1 @@
+# Endre start- og sluttdato og kursstatus for en hendelseskode på en gitt deltaker
