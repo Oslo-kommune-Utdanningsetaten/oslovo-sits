@@ -29,14 +29,18 @@ nav:
         - Bruk av SITS Live:
             - Index: felles/index.md
         - Deltakerbehandling:
+            - Nytt individ: felles/ny_person.md
+            - Ny deltaker: felles/ny_deltaker.md
             - Bytte klasse på en deltaker: felles/bytte_klasse.md
             - Få oversikt over deltaker: felles/deltaker_oversikt.md
             - Endre rettigheter på en deltaker: felles/endre_rett.md
             - Behandle skjermede personer: felles/skjermet_person.md
             - Melde deltakere på og av et kurs: felles/påmelde_deltaker.md
             - Endre start- og sluttdato og kursstatus for en hendelseskode på en gitt deltaker: felles/endre_start_slutt.md
+            - Føre fravær: føre_fravær.md
         - Oversikt og kontroll:
             - Fikse datakvalitet: felles/datakvalitet.md
+            - Endre fødselsnummer på deltaker: felles/fnr.md
             - Rapport for skyssrefusjon: felles/skyss.md
             - Oversikt over rapporter: felles/rapporter.md
             - Skrive ut timeplaner: felles/generere_timeplan.md
