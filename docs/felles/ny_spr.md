@@ -85,3 +85,4 @@
         ??? hint "Hvis du vil lage SPR for flere deltakere"
 
             Hvis du må lage SPR for flere deltakere i samme opplæringstilbud, beholder du kursdataene, klikker på Clear Student, og fyller inn neste STU-nr osv. 
+    
