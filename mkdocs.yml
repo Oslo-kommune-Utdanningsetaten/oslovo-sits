@@ -29,8 +29,8 @@ nav:
         - Bruk av SITS Live:
             - Index: felles/index.md
         - Deltakerbehandling:
-            - Nytt individ: felles/ny_person.md
-            - Ny deltaker: felles/ny_deltaker.md
+            - Ny deltaker utenom Servicesenteret: felles/ny_stu.md
+            - Nytt studieløp for deltaker: felles/ny_spr.md
             - Bytte klasse på en deltaker: felles/bytte_klasse.md
             - Få oversikt over deltaker: felles/deltaker_oversikt.md
             - Endre rettigheter på en deltaker: felles/endre_rett.md
