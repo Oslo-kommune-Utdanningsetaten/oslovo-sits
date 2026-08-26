@@ -19,12 +19,21 @@
   padding: 0.2em 0.5em;
   margin: 0.1em;
   background: white;
-  border: 2px solid #7A7A7A;
-  border-radius: 4px; /* optional */
+  border: 1px solid #7A7A7A;
+  border-radius: 2px;
 }
 
 
 .srl-table td:nth-child(1),
 .srl-table th:nth-child(1) {
   background: #F0F0F0;
+}
+
+
+.md-grid {
+    max-width: 90%;
+}
+
+.md-sidebar--primary {
+    width: 15rem;
 }
