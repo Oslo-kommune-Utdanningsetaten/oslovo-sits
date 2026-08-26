@@ -44,12 +44,16 @@ nav:
             - Rapport for skyssrefusjon: felles/skyss.md
             - Oversikt over rapporter: felles/rapporter.md
             - Skrive ut timeplaner: felles/generere_timeplan.md
+            - Oversikt over gyldige SPR: felles/gyldig_spr.md
         - Kursbehandling:
-            - Lage og slette kurs: felles/lage_kurs.md
+            - Lage og slette kurs: felles/generere_timeplan.md
             - Endre på kurs: felles/endre_kurs.md
 
     - Norsk:
         - Index: norsk/index.md
+        - Behandle permisjon: norsk/permisjon_norsk.md
+        - Behandle deltakere med asyl-rett: norsk/asyl.md
+        - Behandle deltakere med frister: norsk/frist_norsk.md
 
         
     - Tilrettelagt opplæring:
@@ -70,6 +74,7 @@ nav:
 
     - Superbrukere:
         - Index: superbruker/index.md
+        - Guide: superbruker/guide.md
 
 theme:
     language: nb 
