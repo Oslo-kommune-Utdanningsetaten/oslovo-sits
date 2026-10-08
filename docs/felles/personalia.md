@@ -14,7 +14,7 @@
 
 ### Bestille fiktivt fødselsnummer
 
-1. Opprett sak i USD til *Vigilo*
+1. Opprett sak i USD og velg kategori *Fagsystemer* og deretter *Vigilo*
 
 2. Oppgi følgende:
     - Fullt navn
