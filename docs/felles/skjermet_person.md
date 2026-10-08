@@ -25,9 +25,9 @@
         4. **Adresse** skal være **Drammensveien 1, 0001 OSLO**
         5. **E-post** og **Mobil** skal være tomt
 
-    2. Hvis deltaker har et ønsket alias settes dette som **Navn i bruk** i STU [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
+    2. Hvis deltaker har et ønsket alias settes dette som **Navn i bruk** i STU [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
 
-    3. Gå til **SPD** og legg inn et nytt **SKJ**-vedtak [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
+    3. Gå til **SPD** og legg inn et nytt **SKJ**-vedtak [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
 
         ??? warning "Det finnes allerede en SPD"
 
@@ -61,7 +61,7 @@
         [utenfor Servicesenteret](../felles/ny_stu.md) 
         [for Servicesenteret](../felles/ny_stu.md)
 
-    2. Gå til **SPD** og legg inn reell addresse [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
+    2. Gå til **SPD** og legg inn reell addresse [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
 
     3. Lagre slik at det skjules
 
@@ -75,16 +75,16 @@
 ### Finne kontaktinformasjon til skjermede personer
 
 1. Ta kontakt med SITS-ansvarlig ved ditt senter og etterspør passord.
-2. Bruk passordet for å låse opp kontaktinformasjon i SPD [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
+2. Bruk passordet for å låse opp kontaktinformasjon i SPD [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
 
 ### Sende brev og vedtak til skjermede personer
 
 ??? warning "Husk at brev til skjermede personer ikke sendes til Websak!"
 
 1. Generer brevet som vanlig
-2. Fra samme skjermbilde går du til **Goto**, **Related Documents** [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
+2. Fra samme skjermbilde går du til **Goto**, **Related Documents** [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
 3. Let deg frem til riktig brev via **Preview**
-4. Skriv ut brevet [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
+4. Skriv ut brevet [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
 5. Distribuer til deltaker på den måten deltaker ønsker
 
     ??? tip "Hvordan kan vi gi brevet til deltaker?"

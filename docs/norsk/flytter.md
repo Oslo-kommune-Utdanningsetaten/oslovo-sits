@@ -1,0 +1,1 @@
+# Behandle deltakere som flytter

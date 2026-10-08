@@ -13,7 +13,6 @@ nav:
             - Registrere deltaker til norskprøven: laerer/reg_norskprøve.md
             - Oppdatere norsknivå: laerer/oppdater_nivå.md
             - Registrere lesekartlegging: laerer/reg_lesekartlegging.md
-            - Se og rediger deltakerinformasjon : laerer/rediger_deltakerinformasjon.md
 
         - Bare for lærere i FOV:
             - Vedtak om særskilt språkopplæring: laerer/s_sp.md
@@ -28,42 +27,65 @@ nav:
     - Felles for administrasjon:
         - Bruk av SITS Live:
             - Index: felles/index.md
+            - Diverse handlinger i SITS: felles/guide.md
         - Deltakerbehandling:
-            - Ny deltaker utenom Servicesenteret: felles/ny_stu.md
-            - Nytt studieløp for deltaker: felles/ny_spr.md
-            - Bytte klasse på en deltaker: felles/bytte_klasse.md
-            - Få oversikt over deltaker: felles/deltaker_oversikt.md
-            - Endre rettigheter på en deltaker: felles/endre_rett.md
-            - Behandle skjermede personer: felles/skjermet_person.md
-            - Melde deltakere på og av et kurs: felles/påmelde_deltaker.md
-            - Endre start- og sluttdato og kursstatus for en hendelseskode på en gitt deltaker: felles/endre_start_slutt.md
-            - Føre fravær: føre_fravær.md
+            - Registrere ny deltaker utenom servicesenteret: felles/ny_stu.md #F20, litt F04
+            - Nytt studieløp for deltaker: felles/ny_spr.md #F07, F22
+            - Melde på eller av kurs: felles/bytte_klasse.md #F19, F08(8)
+            - Føre fravær: felles/føre_fravær.md #F12
+            - Sluttføre deltaker: felles/sluttføre.md #F08(4-6), F02
+            - Endre rettigheter på en deltaker: felles/endre_rett.md #F07(6), F08(7)
+            - Flytte timer mellom to SPR: felles/flytte_timer.md #F08(11)
+            - Behandle skjermede personer: felles/skjermet_person.md #F04
+            - Behandle avdøde personer: felles/avdøde.md #F02
+            - Endre personalia på deltaker: felles/personalia.md #F21, litt F20
         - Oversikt og kontroll:
-            - Fikse datakvalitet: felles/datakvalitet.md
-            - Endre fødselsnummer på deltaker: felles/fnr.md
-            - Rapport for skyssrefusjon: felles/skyss.md
-            - Oversikt over rapporter: felles/rapporter.md
-            - Skrive ut timeplaner: felles/generere_timeplan.md
-            - Oversikt over gyldige SPR: felles/gyldig_spr.md
+            - Kontrollere egen datakvalitet: felles/datakvalitet.md #F33
+            - Rapport for skyssrefusjon: felles/skyss_refusjon.md #F29
+            - Oversikt over rapporter: felles/rapporter.md #F26
+            - Se timeplan for deltakere og ansatte: felles/se_timeplan.md #F28
+            - Oversikt over gyldige SPR: felles/gyldig_spr.md #N14
+            - Finne undervisningsrom: felles/finne_rom.md #F10
+            - Generere og kontrollere brev: felles/guide_pdf.md #F34
         - Kursbehandling:
-            - Lage og slette kurs: felles/generere_timeplan.md
-            - Endre på kurs: felles/endre_kurs.md
+            - Lage og slette kurs: felles/lage_kurs.md #F18
+            - Endre på kurs: felles/endre_kurs.md #F18, F15
 
     - Norsk:
         - Index: norsk/index.md
-        - Behandle permisjon: norsk/permisjon_norsk.md
-        - Behandle deltakere med asyl-rett: norsk/asyl.md
-        - Behandle deltakere med frister: norsk/frist_norsk.md
+        - Deltakerbehandling:
+            - Behandle asyl-deltakere: norsk/asyl.md #N01
+            - Behandle kollektiv beskyttelse: norsk/ukraina.md #N26
+            - Behandle nav-betal (samarbeidsavtalen): norsk/nav_betaling.md #N25
+            - Lage NiR vedtak: norsk/vedtak.md #N10
+            - Endre norsk-rettighet: norsk/endre_norskrett.md #N07, N29
+            - Endre norskplan: norsk/endre_norskplan.md #N22
+            - Behandle deltakere som ønsker få uketimer: norsk/få_uketimer.md #N28
+            - Behandle permisjon fra opplæring: norsk/permisjon_norsk.md #N23
+            - Sluttføre deltaker ved utgått rett: norsk/utgått_rett.md #N18,N09
+            - Melde på norskoprøve: norsk/norskprøve.md #N11
+            - Behandle deltakere som flytter: norsk/flytter.md #N07, N29
+        - Oversikt og kontroll:
+            - Oversikt over brev til deltaker: norsk/oversikt_brev.md #N21
+            - Finn deltakere med utgående rett: norsk/utgående_rett.md#N05
+            - Kontrollere overføringer til NiR: norsk/kontroll_nir.md #N10, N12, N17
+            - Få oversikt over betalende deltakere: norsk/oversikt_betalende.md #N04
+            - Kjøre refusjonsrapporter: norsk/refusjonsrapport.md #N09
 
         
     - Tilrettelagt opplæring:
         - Index: ito/index.md
-
+        - Deltakerbehandling:
+            - Behandle ikke-timeplanfestet opplæring: ito/pottimer.md
+        - Oversikt og kontroll:
+            - Se lærers økter uteonom timeplan: ito/timer_uten_timeplan.md
 
     - FOV:
         - Index: fov/index.md
-
-
+        - Deltakerbehandling:
+            - Endre modul og status på fag: fov/endre_sms.md
+        - Oversikt og kontroll:
+            - Se deltakere på venteliste: fov/venteliste.md
 
     - Andre tilbud:
         - Utdanningsløftet: andre_tilbud/utdanningsløftet.md
@@ -71,11 +93,15 @@ nav:
 
     - Servicesenter:
         - Index: sese/index.md
-
-
-    - Superbrukere:
-        - Index: superbruker/index.md
-        - Guide: superbruker/guide.md
+        - Deltakerbehandling:
+            - Behandle søknad om utsatt start: sese/utsatt_start.md #S09
+            - Registrere nytt individ i SITS: sese/ny_person.md #S10
+            - Registrere søknad: sese/ny_acd.md #S10, S11
+            - Registrere kartlegging: sese/ny_kart.md #S10
+            - Overføre søknad: sese/overfør.md #S10, S01, S06
+            - Fatte vedtak: sese/vedtak.md #S10, S11
+        - Oversikt og kontroll:
+            - Se hvem som trenger vedtak: sese/lister.md
 
 theme:
     language: nb 

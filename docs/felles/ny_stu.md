@@ -18,26 +18,26 @@
 
 ## Opprett deltaker
 
-1. Søk etter deltakeren i QMP [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
+1. Søk etter deltakeren i QMP [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
 
     1. Fyll inn **navn** og **fødselsdato**.
     2. Trykk **Find**.
 
 2. Se gjennom listen etter deltakeren
 
-=== "Deltakeren er registrert med STU-nummer [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}"
+=== "Deltakeren er registrert med STU-nummer [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}"
 
-    1. Slå opp STU-nummer i STU [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
+    1. Slå opp STU-nummer i STU [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
     2. Endre personalia og addresse etter behov.
 
-=== "Deltakeren er registrert uten STU-nummer [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}"
+=== "Deltakeren er registrert uten STU-nummer [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}"
 
-    1. Velg deltaker i listen og trykk **Use Selected** [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
-    2. Huk av for **Student (STU)** og trykk **Generate** [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
-    3. Slå opp STU-nummer i STU [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
+    1. Velg deltaker i listen og trykk **Use Selected** [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
+    2. Huk av for **Student (STU)** og trykk **Generate** [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
+    3. Slå opp STU-nummer i STU [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
     4. Endre personalia og addresse etter behov.
 
-=== "Deltakeren er ikke registrert [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}"
+=== "Deltakeren er ikke registrert [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}"
 
     ??? warning "Vær nøye ved sjekk"
     
@@ -48,10 +48,10 @@
 
     Hvis det ikke finnes noen treff i QMP:
 
-    1. Trykk **Create New** [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}"
-    2. Fyll inn det du kan av personalia i QMP [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}"
-    3. Huk av for **Student (STU)** og trykk **Generate** [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
-    4. Slå opp STU-nummer i STU [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
+    1. Trykk **Create New** [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}"
+    2. Fyll inn det du kan av personalia i QMP [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}"
+    3. Huk av for **Student (STU)** og trykk **Generate** [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
+    4. Slå opp STU-nummer i STU [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
     5. Legg til personalia og addresse
 
 

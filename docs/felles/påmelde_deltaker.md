@@ -1,1 +1,0 @@
-# Melde deltakere på og av et kurs

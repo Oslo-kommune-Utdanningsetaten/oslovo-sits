@@ -20,11 +20,11 @@
 
     Hvis deltaker ikke har rett må du avslå søknad om permisjon.
 
-2. Slå opp deltaker i NiR og registrer permisjon der [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
+2. Slå opp deltaker i NiR og registrer permisjon der [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
 
-3. Slå opp deltaker i **STU** [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
+3. Slå opp deltaker i **STU** [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
 
-4. Generer **NOVO PERVED** [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
+4. Generer **NOVO PERVED** [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
 
     ??? quote "Brukerinput for **NOVO PERVED**"
 
@@ -47,13 +47,13 @@
 
         </div>
 
-5. Sjekk generert brev [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
+5. Sjekk generert brev [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
 
-6. Sjekk SPD [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
+6. Sjekk SPD [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
 
 ## Avslå vedtak om permisjon for deltaker
 
-1. Slå opp deltaker i **STU** [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
+1. Slå opp deltaker i **STU** [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
 
 2. Generer **NOVO PERAVS**
 
@@ -81,6 +81,6 @@
 
 1. Gå til skjermbildet *DNI*
 
-2. Filtrer frem vedtak som skal overføres [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
+2. Filtrer frem vedtak som skal overføres [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
 
-3. Fyll inn uke og trykk videre for *NiR Upload prosess* [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
+3. Fyll inn uke og trykk videre for *NiR Upload prosess* [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
