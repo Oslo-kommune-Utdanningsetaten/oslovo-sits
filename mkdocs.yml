@@ -50,6 +50,12 @@ nav:
         - Kursbehandling:
             - Lage og slette kurs: felles/lage_kurs.md #F18
             - Endre på kurs: felles/endre_kurs.md #F18, F15
+        - Avansert filtrering:
+            - Avansert filtrering: felles/avansert_filtrering.md #F01
+        - Analyse:
+            - Analysere data
+        - Eksport:
+            - Eksportere data
 
     - Norsk:
         - Index: norsk/index.md
