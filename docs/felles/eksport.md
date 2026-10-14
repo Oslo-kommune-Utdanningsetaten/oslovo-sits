@@ -14,7 +14,7 @@ Hvis du ikke får fram valget Export fra fil er det fordi du mangler rettigheter
 
 **Eksportformat**
 
-Man finner frem ulike formatene for eksport ved å først tømme og deretter dobbelklikke i feltet Data Format. [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/eksport_1.png){.glightbox}. Mest aktuelle typer er trolig HTML som ser greit ut og er lett å kopiere inn i eposter og worddokumenter. Også EXCEL er et greit format som gir bedre mulighet til å behandle dataene i etterkant.
+Man finner frem ulike formatene for eksport ved å først tømme og deretter dobbelklikke i feltet Data Format. [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/eksport_1.png){.glightbox}. Mest aktuelle typer er trolig HTML som ser greit ut og er lett å kopiere inn i eposter og worddokumenter. Også EXCEL er et greit format som gir bedre mulighet til å behandle dataene i etterkant.
 
 **Rekkefølge/Sortering.**
 
@@ -22,16 +22,16 @@ Standard sortering er rekkefølgen postene ligger i før du tar eksport, men du 
 
 **Filnavn/lagring**
 
-Klikk på mappeesymbolet og velg hvor du vil lagre, og skriv evt. inn filnavn. [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/eksport_1.png){.glightbox}
+Klikk på mappeesymbolet og velg hvor du vil lagre, og skriv evt. inn filnavn. [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/eksport_1.png){.glightbox}
 
-Klikk OK for å gå videre til å velge hvilke felt som skal med. [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/eksport_2.png){.glightbox}
+Klikk OK for å gå videre til å velge hvilke felt som skal med. [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/eksport_2.png){.glightbox}
 
 Etter at du har kommet til skjermbildet kan du velge hvilke felt du vil ha med. For å slippe å ta med alle felt er det greit å klikke på knappen Invert for å fjerne merking ved alle felt og heller aktivt merke de feltene du vil ha.
 Her ønsker vi f.eks Deltakernr/SPR og etternavn. Sett da hake ved disse feltene. Gjør eventuell lagring (se neste avsnitt) og klikk OK for å eksportere.
 
 ## Lagre eksporten
 
-Hvis du vil bruke eksporten du nettopp har laget en gang til senere kan du lagre utvalget ved å skrive inn et navn i feltet Template [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/eksport_2.png){.glightbox} og klikke på Save. Da er dette valget og eksportformatet lagret til neste gang du vil kjøre den samme eksporten. 
+Hvis du vil bruke eksporten du nettopp har laget en gang til senere kan du lagre utvalget ved å skrive inn et navn i feltet Template [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/eksport_2.png){.glightbox} og klikke på Save. Da er dette valget og eksportformatet lagret til neste gang du vil kjøre den samme eksporten. 
 
 ## Hente opp og kjøre en lagret eksport
 
@@ -47,11 +47,11 @@ Skriv inn navnet på en lagret eksport i feltet Template i Figur 1 for å hente 
 
 ## Endre feltnavn
 
-For å endre overskriften for et felt i eksportfilen kan du klikke på den lille dobbeltpila til høyre for avkrysningsboksen [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/eksport_2.png){.glightbox} og endre det som står i Heading [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/eksport_3.png){.glightbox}.
+For å endre overskriften for et felt i eksportfilen kan du klikke på den lille dobbeltpila til høyre for avkrysningsboksen [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/eksport_2.png){.glightbox} og endre det som står i Heading [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/eksport_3.png){.glightbox}.
 
 ## Formattere et felt
 
-Etter å ha klikket på dobbeltpila [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/eksport_2.png){.glightbox}, kan du også formattere felt. Nyttige formatteringer kan være datoformattering og endring av store og små bokstaver. Et klikk på den røde knappen ved Export format kan hjelpe deg gjenom formatteringen.
+Etter å ha klikket på dobbeltpila [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/eksport_2.png){.glightbox}, kan du også formattere felt. Nyttige formatteringer kan være datoformattering og endring av store og små bokstaver. Et klikk på den røde knappen ved Export format kan hjelpe deg gjenom formatteringen.
 
 Her er noen eksempler på formattering
 
@@ -69,7 +69,7 @@ For å hente noe fra STU må vi benytte en nøkkel som knytter SPR til STU. Nøk
 **Eksempel med å hente språk fra STU til eksporten fra SPR**
 
 Hent først deltakernummeret SPR_STUC.SPR og klikk på dobbeltpila. 
-I skjermbildet for å velge feltegenskaper [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/eksport_4.png){.glightbox} skriver vi inn først &G (and Get) i feltet Eksportformat etterfulgt av feltkoden for feltet du vil hente i STU. 
+I skjermbildet for å velge feltegenskaper [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/eksport_4.png){.glightbox} skriver vi inn først &G (and Get) i feltet Eksportformat etterfulgt av feltkoden for feltet du vil hente i STU. 
 
 For å hente feltet med *Førstespråk 1* henter du feltkoden (med metode beskrevet over i avsnittet *Finne igjen feltkode* over) og setter inn det sammen med &G i feltet Exportformat slik: &GSTU_UDF2.STU.SRS 
 
@@ -79,23 +79,24 @@ Merk etter feltkoden må vi også ha med en ”besvergelse” som sier hvilken d
 	2. CAMS her er kursdata
 	3. MENSYS – her er systemdata
 
-Aller øverst til høyre i et hvilket som helst skjermbilde ser man hvilke del av SITS skjermbildet tilhører. [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/eksport_5.png){.glightbox}
+Aller øverst til høyre i et hvilket som helst skjermbilde ser man hvilke del av SITS skjermbildet tilhører. [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/eksport_5.png){.glightbox}
 
 **Eksempel med å hente Adresse fra STU til eksporten fra SPR**
 
 For å få inn adressen tar vi et felt for hver adresselinje.
 Gjør som i forrige eksempel med å hente elevnummeret slik at du kommer til skjembildet som i Figur 3 . 
-Adressefeltene kan du finne riktig databasenavn for fra skjermbidlet STUT:
 
-	Gateadresse	STU_HAD1.STU.SRS
-	Postboks	STU_HAD2.STU.SRS
-	C/O adresse	STU_HAD3.STU.SRS
-	Postnr Sted	STU_HAD4.STU.SRS
-	Telefon	STU_HTEL.STU.SRS
-	Mobil	STU_HAT3.STU.SRS
-	Epost	STU_HAEM.STU.SRS
+Adressefeltene kan du finne riktig databasenavn for fra skjermbildet STUT:
 
-For gateadressen skriver du da Gateadresse i feltet Heading og &GSTU_HAD1.STU.SRS og klikk Apply
+	* Gateadresse	STU_HAD1.STU.SRS
+	* Postboks		STU_HAD2.STU.SRS
+	* C/O adresse	STU_HAD3.STU.SRS
+	* Postnr Sted	STU_HAD4.STU.SRS
+	* Telefon		STU_HTEL.STU.SRS
+	* Mobil			STU_HAT3.STU.SRS
+	* Epost			STU_HAEM.STU.SRS
+
+For gateadressen skriver du da Gateadresse i feltet Heading og &GSTU_HAD1.STU.SRS og klikk Apply.
 Gjenta for de andre adressefeltene du vil ha med.
  
 NB! Husk nå å lagre (se avsnittet Lagre eksporten) hvis du vil ta vare på denne eksporten til en annen gang 

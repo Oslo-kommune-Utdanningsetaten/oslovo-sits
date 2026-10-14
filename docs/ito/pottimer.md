@@ -31,7 +31,7 @@ For egne deltakere finnes det funksjoner for både registrering av timer og visn
 
 
 
-1. Velg type registrering i den første rullegardinmenyen  [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/evision_ikketimeplanfestet.png){.glightbox}
+1. Velg type registrering i den første rullegardinmenyen  [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/evision_ikketimeplanfestet.png){.glightbox}
 
 2. Velg dato i feltet **Dato for gitt undervisning** ved hjelp av datovelgeren.
 
@@ -131,7 +131,7 @@ Klikk på deltakernummeret i søkeresultatet.
 
 
 
-Dersom deltakeren har flere studieløp, må du velge riktig studieløp før du går videre. [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/evision_velg_studielop.png){.glightbox}
+Dersom deltakeren har flere studieløp, må du velge riktig studieløp før du går videre. [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/evision_velg_studielop.png){.glightbox}
 
 Når studieløpet er valgt, kan du bruke menyene for deltakertimer. Fremgangsmåten for redigering og sletting er identisk med beskrivelsen under «Oversikt over + redigering av deltakertimer (SU)».
 

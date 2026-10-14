@@ -20,10 +20,10 @@
 **Eksempel: Finne antall aktive på de ulike programmene**
 
 Filtrer fram alle aktive på ditt VO-senter.
-Deretter markerer du feltet med program og gå så til menyen Misc og velg Quick Analysis. [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/quick_analysis_1.png){.glightbox}
+Deretter markerer du feltet med program og gå så til menyen Misc og velg Quick Analysis. [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/quick_analysis_1.png){.glightbox}
 
 Som standard er det valgt Matematisk analyse og feltet du vil analysere er fylt inn.
-Klikk på OK for å få fram analysen. [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/quick_analysis_2.png){.glightbox}
+Klikk på OK for å få fram analysen. [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/quick_analysis_2.png){.glightbox}
 
 I skjermbildet som du nå har fått fram vil du se de ulike verdiene i program.
 Resultatene kan presenteres både som tabeller og grafiske fremstillinger.
@@ -39,10 +39,10 @@ Verktøyet kan også lage krysstabeller mellom to felt.
 
 Filtrer fram alle aktive på ditt VO-senter.
 Deretter markerer du feltet med program og gå så til menyen Misc og velg Quick Analysis.
-Her velger du *Cross reference* [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/quick_analysis_3.png){.glightbox}
+Her velger du *Cross reference* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/quick_analysis_3.png){.glightbox}
 
 I feltet for kolonne (Col. Field) kan du skrive inn koden for feltet der rettighetene er lagret (SPR_UDF1)
-Klikk på OK for å få fram analysen. [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/quick_analysis_4.png){.glightbox}
+Klikk på OK for å få fram analysen. [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/quick_analysis_4.png){.glightbox}
 
 I skjermbildet som du nå har fått fram vil du se de ulike verdiene i program.
 Til høyre i skjermbildet kan du velge ulike grafer; kakediagram, søylediagram, linjediagram.

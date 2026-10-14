@@ -5,19 +5,19 @@ Bruker bestemmer hvor mange felt skal være med avhengig av målet med filtrerin
 ## Bruk av flere felt til henting av poster
 
 
-**Eksempel: filtrering av alle deltakere fra Rosenhof med status AP eller LA** [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/spr_filtrere.png){.glightbox}
+**Eksempel: filtrering av alle deltakere fra Rosenhof med status AP eller LA** [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/spr_filtrere.png){.glightbox}
 
 Forklaring:
 Det er to felt som er i bruk for å få hentet alle aktive fra Rosenhof. VO-senter = ROS og status = AP eller LA. Eller-tegnet mellom AP og LA får du inn ved å taste plusstegnet på det numeriske tastaturet og deretter "bartegnet" (|) øverst til venstre på det vanlige tastaturet. Du kan også høyreklikke i feltet etter at du har skrevet AP og deretter velge Insert wildcard og deretter velge Or (|).
 
-**Eksempel: finne alle deltakere på nivå med utdanningsbakrunn = NG med skriftlig nivå = SA10** [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/spr_filtrere_nivaa.png){.glightbox}
+**Eksempel: finne alle deltakere på nivå med utdanningsbakrunn = NG med skriftlig nivå = SA10** [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/spr_filtrere_nivaa.png){.glightbox}
 
 Forklaring: 
 Vi bruker først NG med gold stjerne bak for å skille ut alle som har utdanningsbakgrunn NG og definert skriftlig nivå SA1. Slik vil systemet finne alle som har disse to verdier i sin anbefalte opplæring uavhengig av andre verdiene de har i koden. Felt som består av samlede verdier, som f eks feltet Anb opplæring i SPR som inneholder både utdanningsbakgrunn, muntlig- og skriftlig nivå, har mange muligheter for filtrering.
 
 Det kan være flere Gold star i et og samme felt under filtrering. Hvis du f.eks skriver inn NG·*SA1·* i feltet Anbefalt opplæring og trykker F5 får du hentet alle med utdanningsbakgrunn = NG med skriftlig nivå SA1 samt de med nivå SA1 R, SA1+ og SA1+ R
 
-**Eksempel: få fram alle som søkte NORSK i løpet av mai 2026** [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/acd_filtrere_dato.png){.glightbox} 
+**Eksempel: få fram alle som søkte NORSK i løpet av mai 2026** [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/acd_filtrere_dato.png){.glightbox} 
 
 Forklaring: Vi velger innsøking NORSK, ikke noe status fordi vi vil ha både overførte og ikke overførte. Vi kan også begrense slike søk til bestemt studieløp, program eller begge deler. Vi tar i bruk datofelt for søknadsdato og fyller inn følgende tekst i feltet: ·>·=01/May/2026·&·<·=30/May/2026. I klartekst står det at dato skal være større enn eller lik 01 mai 2026 og mindre enn eller lik 30 mai 2026. For å velge en dato i SITS som er større enn/ mindre enn en bestemt dato, går du via Insert Wildcard ved å høyreklikke i feltet. Da får du opp alternativene som hjelper oss å definere søket. Du kan enten begrense et søk/ utelukke verdier fra et søk eller kombinere verdier i et søk i samme felt. 
 
