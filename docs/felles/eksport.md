@@ -71,7 +71,7 @@ For å hente noe fra STU må vi benytte en nøkkel som knytter SPR til STU. Nøk
 Hent først deltakernummeret SPR_STUC.SPR og klikk på dobbeltpila. 
 I skjermbildet for å velge feltegenskaper [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/eksport_4.png){.glightbox} skriver vi inn først &G (and Get) i feltet Eksportformat etterfulgt av feltkoden for feltet du vil hente i STU. 
 
-For å hente feltet med *Førstespråk 1* henter du feltkoden (med metode beskrevet over i avsnittet *Finne igjen feltkode*) og setter inn det sammen med &G i feltet Exportformat slik: &GSTU_UDF2.STU.SRS 
+For å hente feltet med *Førstespråk 1* henter du feltkoden (med metode beskrevet over i avsnittet *Finne igjen feltkode* over) og setter inn det sammen med &G i feltet Exportformat slik: &GSTU_UDF2.STU.SRS 
 
 Merk etter feltkoden må vi også ha med en ”besvergelse” som sier hvilken del av sits vi vil hente data i fra. Det er en del tabeller i SITS som finnes flere steder. Vi må derfor angi hvilken del av SITS vi skal hente data fra.  Det er i hovedsak tre slike deler
 
