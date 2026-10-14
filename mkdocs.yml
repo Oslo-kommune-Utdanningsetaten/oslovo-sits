@@ -53,9 +53,9 @@ nav:
         - Avansert filtrering:
             - Avansert filtrering: felles/avansert_filtrering.md #F01
         - Analyse:
-            - Analysere data
+            - Analysere data: felles/analyse.md #F01
         - Eksport:
-            - Eksportere data
+            - Eksportere data: felles/eksport.md #F01
 
     - Norsk:
         - Index: norsk/index.md

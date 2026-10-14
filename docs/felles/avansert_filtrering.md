@@ -43,6 +43,10 @@ Det gjør du ved å skrive inn REPL·|PLIKT i feltet for rettighet i UDF på SPR
 **Eksempel: Finn alle aktive SPR på ditt senter som ikke har Program NBET**
 Det gjør du ved å velge Status = AP, VO-senter = "Ditt senter" og i feltet Program velger du wildcard Not og skriver NBET slik at det står dette i feltet ·!NBET før du trykker på F5
 
+## Fjerne utvalg av poster som du har filtrert fram - Drop records
+Med Drop records som du finner fra menyen Misc, kan du utelate eller beholde poster fra en hentet liste ved hjelp av ulike kriterier, inkludert intervaller eller postverdier. De postene som du utelater blir ikke slettet; de er bare ikke tilgjengelige for visning eller behandling i det gjeldende skjermbildet.
 
+Dette kan være nyttig dersom du arbeider med en stor liste og ønsker å utelate de postene som allerede er gjennomgått eller endret. Ved bruk av alternativet velg etter verdi er det også mulig å søke i ett enkelt felt eller i alle feltene i det gjeldende skjermbildet for å definere hvilke poster som skal utelates eller beholdes.
 
+Denne kommandoen er bare tilgjengelig når mer enn én post er hentet.
 
