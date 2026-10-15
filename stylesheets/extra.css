@@ -37,3 +37,10 @@
 .md-sidebar--primary {
     width: 15rem;
 }
+
+/* Smalere side-meny for små skjerma */
+@media screen and (max-width: 599px) {
+    .md-sidebar--primary {
+        width: min(75vw, 260px);
+    }
+}
