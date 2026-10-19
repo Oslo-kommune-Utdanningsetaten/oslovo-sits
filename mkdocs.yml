@@ -88,6 +88,7 @@ nav:
         - Index: fov/index.md
         - Deltakerbehandling:
             - Endre modul og status på fag: fov/endre_sms.md
+            - Registrere deltakere til fleksible kurs: fov/fleksikurs.md
         - Oversikt og kontroll:
             - Se deltakere på venteliste: fov/venteliste.md
 
