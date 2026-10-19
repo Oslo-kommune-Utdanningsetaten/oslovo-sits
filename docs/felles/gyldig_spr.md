@@ -26,3 +26,4 @@ Disse markeres andre steder, men må i alle tilfeller høre til en korrekt forma
 | NGSK | URETT | N | NI, NG, NV | FOV med rettigheter etter Opplæringslova |
 | NGSK | REPL | N | NI, NG, NV | FOV med rettigheter etter Opplæringslova og Integreringsloven som tar ut norskrettighetene sine i FOV |
 | NGSK | REPL42 | N | NI, NG, NV | FOV med rettigheter etter Opplæringslova og Integreringsloven som tar ut norskrettighetene sine i FOV, gitt som ITO |
+| NGSK | UA | N | NI, NG, NV | Prosjekter som følger opplæringsløpet til FOV. Per i dag bare fleksimatte på Rosenhof |
