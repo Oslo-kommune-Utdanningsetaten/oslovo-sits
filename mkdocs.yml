@@ -4,15 +4,7 @@ nav:
     - For lærere:
         - Index: laerer/index.md
         - For alle lærere:
-            - Administrere egen konto: laerer/admin_konto.md
-            - Se og rediger personopplysninger: laerer/rediger_deltakerinformasjon.md
-            - Finn timeplaner: laerer/timeplan.md
-            - Se og rediger klasselister: laerer/klasselister.md
-            - Føre fravær: laerer/fravær.md
-            - Sluttføre deltaker: laerer/sluttføring.md
-            - Registrere deltaker til norskprøven: laerer/reg_norskprøve.md
-            - Oppdatere norsknivå: laerer/oppdater_nivå.md
-            - Registrere lesekartlegging: laerer/reg_lesekartlegging.md
+            - Veileder for kartleggingsrapport: laerer/veileder_kartlg.md
 
         - Bare for lærere i FOV:
             - Vedtak om særskilt språkopplæring: laerer/s_sp.md
