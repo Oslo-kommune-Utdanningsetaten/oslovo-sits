@@ -4,7 +4,7 @@
 
 ### Jeg er lærer!
 
-Er du lærer er det bare rutinene under [**For lærere**](other-page.md) du trenger å ta hensyn til.
+Er du lærer er det bare rutinene under **For lærere** du trenger å ta hensyn til.
 Du kan og finne rutinene som lenke via eVision.
 
 ### Jeg jobber i administrasjon
@@ -25,7 +25,7 @@ Her er en forklaring på hva de forskjellige betyr
 
     1. Jeg er et delsteg i steg 1
 
-2. Jeg er et steg i en prosess. Til høyre er en knapp slik at du kan se et bilde som hjelper. [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
+2. Jeg er et steg i en prosess. Til høyre er en knapp slik at du kan se et bilde som hjelper. [![bilde](assets/images/gallery.svg){width="15"}](assets/images/tmp.webp){.glightbox}
 
 ??? warning "Jeg beskriver noe du må være obs på. Klikk meg for mer informasjon."
 

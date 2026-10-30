@@ -16,7 +16,7 @@
         2. Åpne ny instans av skjembildet SPR
         3. Skriv koden din i GruppeSPR og trykk F5, da skal det komme opp en liste.
 
-2. Generer **FOVO UTDLFT** [![Preview](../../assets/images/gallery.svg){ width="15" }](../../assets/animation/animation2.mp4){.glightbox}
+2. Generer **FOVO UTDLFT** [![Preview](../assets/images/gallery.svg){ width="15" }](../assets/animation/animation2.mp4){.glightbox}
 
     ??? warning "Hvis du gjør dette for en gruppe"
         Hvis du gjør dette for en gruppe må du bruke "All" i stedet for "Current"

@@ -6,9 +6,9 @@
 
 ## Få oversikt over deltakere på ditt senter med asyl-rett
 
-1. Gå til skjermbildet **SCL** og filtrer frem din skolekode [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
+1. Gå til skjermbildet **SCL** og filtrer frem din skolekode [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/tmp.webp){.glightbox}
 
-2. Generer **NOVO ASYTIM** [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
+2. Generer **NOVO ASYTIM** [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/tmp.webp){.glightbox}
 
 ??? hint "Du kan gjerne sende varsel til de med få timer igjen"
 
@@ -17,7 +17,7 @@
 
 ## Sluttføre deltakere
 
-1. Generer **NOVO ASYVAR** [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
+1. Generer **NOVO ASYVAR** [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/tmp.webp){.glightbox}
 
 2. Vurder om deltaker skal gå videre på kurs eller ikke
 
@@ -28,5 +28,5 @@
 
     Bare gi denne hvis deltaker etterspør.
 
-    1. Slå opp deltaker i **SPR** [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
-    2. Generer **NOVO TIMBEK** [![bilde](../../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
+    1. Slå opp deltaker i **SPR** [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/tmp.webp){.glightbox}
+    2. Generer **NOVO TIMBEK** [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/tmp.webp){.glightbox}

@@ -1,0 +1,1 @@
+# Sluttføre deltaker ved utgått rett

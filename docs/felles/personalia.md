@@ -2,13 +2,13 @@
 
 ## Endre addresse
 
-1. [Filtrer frem deltaker](../felles/guie.pdf.md#filtrere-i-sits) i skjermbildet *STU* [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_skjermbilde.webp){.glightbox}
+1. [Filtrer frem deltaker](../felles/guide.md#filtrere-i-sits) i skjermbildet *STU* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_skjermbilde.webp){.glightbox}
 
-2. Klikk på *Home Address* [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/stu_address.webp){.glightbox}
+2. Klikk på *Home Address* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/stu_address.webp){.glightbox}
 
 3. Endre eller slett verdier
 
-4. Trykk *Apply* [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/men_apply.webp){.glightbox}
+4. Trykk *Apply*
 
 ## Håndtere fødselsnummer
 
@@ -27,7 +27,7 @@
 
 ### Registrere fødselsnummer i SITS (inkludert fiktivt)
 
-1. [Filtrer frem deltaker](../felles/guie.pdf.md#filtrere-i-sits) i skjermbildet *STU* [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_skjermbilde.webp){.glightbox}
+1. [Filtrer frem deltaker](../felles/guide.md#filtrere-i-sits) i skjermbildet *STU* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_skjermbilde.webp){.glightbox}
 
 2. Sett inn fødelsnummer i *Fødselsnummer*
 

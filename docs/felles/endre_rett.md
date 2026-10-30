@@ -48,7 +48,7 @@
 
 ## Fatte vedtak ved endring til NiR-rettighet
 
-1. [Filtrer frem deltaker](../felles/guie.pdf.md#filtrere-i-sits) i skjermbildet *STU*[![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_skjermbilde.webp){.glightbox}
+1. [Filtrer frem deltaker](../felles/guide.md#filtrere-i-sits) i skjermbildet *STU*[![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_skjermbilde.webp){.glightbox}
 
 2. Generer [*NOVO FORVED*](../felles/guide_pdf.md){.glightbox} og vurder om deltaker har et vedtak som passer rettigheten den skal være på
 
@@ -58,11 +58,11 @@
 
         Hvis deltaker har et vedtak med en annen rettighet må dette markeres som avbrutt i SPD før du går videre.
 
-3. [Filtrer frem deltaker](../felles/guie.pdf.md#filtrere-i-sits) i skjermbildet *STU*[![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_skjermbilde.webp){.glightbox}
+3. [Filtrer frem deltaker](../felles/guide.md#filtrere-i-sits) i skjermbildet *STU*[![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_skjermbilde.webp){.glightbox}
 
 4. Sett feltet *Rettigheter* til ønsket rettighet
 
-5. [Filtrer frem deltaker](../felles/guie.pdf.md#filtrere-i-sits) i skjermbildet *SAD*[![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_skjermbilde.webp){.glightbox}
+5. [Filtrer frem deltaker](../felles/guide.md#filtrere-i-sits) i skjermbildet *SAD*[![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_skjermbilde.webp){.glightbox}
 
 6. Fyll inn riktige datoer for deltaker i SAD
 

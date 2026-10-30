@@ -2,7 +2,7 @@
 
 ## Fjerne kursøkter
 
-1. [Filtrer frem kurset](../felles/guie.pdf.md#filtrere-i-sits) i skjermbildet *EVI* [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_skjermbilde.webp){.glightbox}
+1. [Filtrer frem kurset](../felles/guide.md#filtrere-i-sits) i skjermbildet *EVI* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_skjermbilde.webp){.glightbox}
 
     En god kombinasjon er å fylle inn **Hendelseskode** og **Dato**, men du kan filtrere frem flere også
 
@@ -10,7 +10,7 @@
 
 ## Endre varighet på kursøkter
 
-1. [Filtrer frem kurset](../felles/guie.pdf.md#filtrere-i-sits) i skjermbildet *EVI* [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_skjermbilde.webp){.glightbox}
+1. [Filtrer frem kurset](../felles/guide.md#filtrere-i-sits) i skjermbildet *EVI* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_skjermbilde.webp){.glightbox}
 
     En god kombinasjon er å fylle inn **Hendelseskode** og **Dato**, men du kan filtrere frem flere også
 
@@ -20,9 +20,9 @@
 
 ## Endre Rom på kurs
 
-1. [Filtrer frem kurset](../felles/guie.pdf.md#filtrere-i-sits) i skjermbildet *EVE* [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_skjermbilde.webp){.glightbox}
+1. [Filtrer frem kurset](../felles/guide.md#filtrere-i-sits) i skjermbildet *EVE* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_skjermbilde.webp){.glightbox}
 
-2. Fra toppmenyen går du til *Other* ⇒ *Rooms* [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_top.webp){.glightbox}
+2. Fra toppmenyen går du til *Other* ⇒ *Rooms* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_top.webp){.glightbox}
 
     Hvis kurset går over flere dager, så vil det være en linje for hver av dagene med grønne bokser som angir hvilke uker som er aktive. 
 
@@ -44,7 +44,7 @@
 
 === "Legge til rom"
 
-    3. Fra toppmenyen går du til *File* ⇒ *Add* [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_top.webp){.glightbox}
+    3. Fra toppmenyen går du til *File* ⇒ *Add* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_top.webp){.glightbox}
 
     4. Legg inn romkode i ny boks
 
@@ -52,9 +52,9 @@
 
 ## Endre lærer på kurs
 
-1. [Filtrer frem kurset](../felles/guie.pdf.md#filtrere-i-sits) i skjermbildet *EVE* [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_skjermbilde.webp){.glightbox}
+1. [Filtrer frem kurset](../felles/guide.md#filtrere-i-sits) i skjermbildet *EVE* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_skjermbilde.webp){.glightbox}
 
-2. Fra toppmenyen går du til *Other* ⇒ *Personell* [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_top.webp){.glightbox}
+2. Fra toppmenyen går du til *Other* ⇒ *Personell* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_top.webp){.glightbox}
 
     Hvis kurset går over flere dager, så vil det være en linje for hver av dagene med grønne bokser som angir hvilke uker som er aktive. 
 
@@ -63,7 +63,7 @@
 
     ??? tip "Du kan inaktivere lærer istedet hvis du vil beholde historikk"
 
-        1. [Filtrer frem kurset](../felles/guie.pdf.md#filtrere-i-sits) i skjermbildet *EAD* , og sett *Type* som "Staff" [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_skjermbilde.webp){.glightbox}
+        1. [Filtrer frem kurset](../felles/guide.md#filtrere-i-sits) i skjermbildet *EAD* , og sett *Type* som "Staff" [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_skjermbilde.webp){.glightbox}
 
         2. Endre status på lærer som skal inaktiveres til "Withdrawn" og lagre
 
@@ -75,7 +75,7 @@
 
     ??? tip "Du kan inaktivere lærer istedet hvis du vil beholde historikk"
 
-    1. Fra toppmenyen går du til *File* ⇒ *Add* [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_top.webp){.glightbox}
+    1. Fra toppmenyen går du til *File* ⇒ *Add* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_top.webp){.glightbox}
 
     2. Legg inn lærers kode, og lagre.
 

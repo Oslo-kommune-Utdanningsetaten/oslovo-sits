@@ -6,7 +6,7 @@ Det forventes at hvert senter gjennomgår kontroll av egen datakvalitet en gang 
 
 ### Måndlig datakvalitetsskjekk
 
-1. Gå til skjermbildet *SCL* [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_skjermbilde.webp){.glightbox}
+1. Gå til skjermbildet *SCL* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_skjermbilde.webp){.glightbox}
 
 2. Skriv inn skolens kode (SME, ROS, SKU, SOV) i *Kode og navn* og trykk **TAB**
 
@@ -16,9 +16,9 @@ Det forventes at hvert senter gjennomgår kontroll av egen datakvalitet en gang 
 
 #### Manglende registrering av timer på vedtak
 
-1. [Filtrer frem deltaker](../felles/guie.pdf.md#filtrere-i-sits) i skjermbildet *SPD* [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_skjermbilde.webp){.glightbox}
+1. [Filtrer frem deltaker](../felles/guide.md#filtrere-i-sits) i skjermbildet *SPD* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_skjermbilde.webp){.glightbox}
 
-2. Klikk på *UDF*-knappen [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_udf.webp){.glightbox}
+2. Klikk på *UDF*-knappen [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_udf.webp){.glightbox}
 
 3. Skriv inn *Timer på første vedtak*
 

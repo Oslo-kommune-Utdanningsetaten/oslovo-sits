@@ -63,7 +63,7 @@ nav:
             - Behandle deltakere som flytter: norsk/flytter.md #N07, N29
         - Oversikt og kontroll:
             - Oversikt over brev til deltaker: norsk/oversikt_brev.md #N21
-            - Finn deltakere med utgående rett: norsk/utgående_rett.md#N05
+            - Finn deltakere med utgående rett: norsk/utgående_rett.md #N05
             - Kontrollere overføringer til NiR: norsk/kontroll_nir.md #N10, N12, N17
             - Få oversikt over betalende deltakere: norsk/oversikt_betalende.md #N04
             - Kjøre refusjonsrapporter: norsk/refusjonsrapport.md #N09

@@ -12,15 +12,15 @@
 === "For en deltaker"
     
     1. Filtrer frem deltaker i skjermbiltet brevet kjøres fra.
-    2. Fra toppmeny, trykk på *Current* ⇒ *Gen + Print letters* [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_top.webp){.glightbox}
-    3. Skriv inn brevkoden og trykk på *Create PDF Document* eller *Process group* [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_generer_srl.webp){.glightbox}
+    2. Fra toppmeny, trykk på *Current* ⇒ *Gen + Print letters* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_top.webp){.glightbox}
+    3. Skriv inn brevkoden og trykk på *Create PDF Document* eller *Process group* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_generer_srl.webp){.glightbox}
         - Det vil alltid bare være et valg du ser
 
 === "For en gruppe deltakere"
 
     1. Filtrer frem deltakerne i skjermbiltet brevet kjøres fra.
-    2. Fra toppmeny, trykk på *All* ⇒ *Gen + Print letters* [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_top.webp){.glightbox}
-    3. Skriv inn brevkoden og trykk på *Create PDF Document* eller *Process group* [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_generer_srl.webp){.glightbox}
+    2. Fra toppmeny, trykk på *All* ⇒ *Gen + Print letters* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_top.webp){.glightbox}
+    3. Skriv inn brevkoden og trykk på *Create PDF Document* eller *Process group* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_generer_srl.webp){.glightbox}
         - Det vil alltid bare være et valg du ser
     
 
@@ -28,7 +28,7 @@
 ## Hvordan kontrollsjekke og slette genererte brev
 
 1. Filtrer frem deltaker i skjermbiltet brevet kjøres fra.
-2. Fra toppmeny, trykk på *Goto* ⇒ *Relaated Documents ...* [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_top.webp){.glightbox}
+2. Fra toppmeny, trykk på *Goto* ⇒ *Relaated Documents ...* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_top.webp){.glightbox}
 3. Trykk på *Preview* eller *View*
 4. Se gjennom brevet
 
@@ -53,7 +53,7 @@
     5. For hvert brev som må fikses gjør du stegene under
 
 1. Filtrer frem deltaker i skjermbiltet brevet kjøres fra.
-2. Fra toppmeny, trykk på *Goto* ⇒ *Relaated Documents ...* [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_top.webp){.glightbox}
+2. Fra toppmeny, trykk på *Goto* ⇒ *Relaated Documents ...* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_top.webp){.glightbox}
 3. Finn brevet du genererte
     - Se at brevet er laget av deg og at brevkoden og dato er riktig
 4. Trykk på *Delete* ⇒ *Yes*

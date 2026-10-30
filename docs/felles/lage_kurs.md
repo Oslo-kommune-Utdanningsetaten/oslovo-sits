@@ -9,8 +9,8 @@
 
 === "Helt ny fagtilgjengelighet"
 
-    1. Gå til **MAV** og trykk **File** ⇒ **Add** [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
-    2. Fyll inn **MAV** [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/tmp.webp){.glightbox}
+    1. Gå til **MAV** og trykk **File** ⇒ **Add** [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/tmp.webp){.glightbox}
+    2. Fyll inn **MAV** [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/tmp.webp){.glightbox}
 
         ??? quote "Hvordan fylle ut **MAV**"
 
@@ -22,19 +22,19 @@
 
 === "Basert på eksisterende fagtilgjengelighet"
 
-    1. [Filtrer frem kurs du baserer på](../felles/guie.pdf.md#filtrere-i-sits) i skjermbildet *MAV*[![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_skjermbilde.webp){.glightbox}
+    1. [Filtrer frem kurs du baserer på](../felles/guide.md#filtrere-i-sits) i skjermbildet *MAV*[![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_skjermbilde.webp){.glightbox}
 
-    2. Fra toppmenyen går du til *File* ⇒ *Release* [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_top.webp){.glightbox}
+    2. Fra toppmenyen går du til *File* ⇒ *Release* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_top.webp){.glightbox}
 
     3. Oppdater skoleår og evt. annen informasjon som har endret seg
 
     4. Fjern verdi i *TOC* hvis det står noe der og lagre
 
-    5. Fyll inn *År* (skoleår) og *fag* i skjermbildet *RMA* [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_skjermbilde.webp){.glightbox}
+    5. Fyll inn *År* (skoleår) og *fag* i skjermbildet *RMA* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_skjermbilde.webp){.glightbox}
 
     6. Trykk på grønn pil ⇒ **Run**
 
-    7. [Filtrer frem kurs du baserer på](../felles/guie.pdf.md#filtrere-i-sits) i skjermbildet *MAV*[![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_skjermbilde.webp){.glightbox}
+    7. [Filtrer frem kurs du baserer på](../felles/guide.md#filtrere-i-sits) i skjermbildet *MAV*[![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_skjermbilde.webp){.glightbox}
 
 1. Generer [*CREATE_TOC2*](../felles/guide_pdf.md){.glightbox}
 
@@ -42,7 +42,7 @@
 
 ## Lage EVE
 
-1. [Filtrer frem kurs du baserer på](../felles/guie.pdf.md#filtrere-i-sits) i skjermbildet *GEV*[![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_skjermbilde.webp){.glightbox}
+1. [Filtrer frem kurs du baserer på](../felles/guide.md#filtrere-i-sits) i skjermbildet *GEV*[![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_skjermbilde.webp){.glightbox}
 
     Følgende felt skal ha data som stemmer med MAV
 
@@ -68,7 +68,7 @@
 
 ## Legge til en ekstra klasse/EVE
 
-1. [Filtrer frem kurs du baserer på](../felles/guie.pdf.md#filtrere-i-sits) i skjermbildet *MAV*[![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_skjermbilde.webp){.glightbox}
+1. [Filtrer frem kurs du baserer på](../felles/guide.md#filtrere-i-sits) i skjermbildet *MAV*[![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_skjermbilde.webp){.glightbox}
 
 2. Øk måltallet tilsvarende ekstra klasser du ønsker
 
@@ -82,7 +82,7 @@ Når du har et nygenerert kurs/EVE med metoden over, så vil den inneholde en ku
 lørdag (dag 6) i SITS uke 4. Den kan du fjerne fra EVE ved å klikke på den doble pila ved 
 kursøkten og i det neste skjermbildet velge *File* ⇒ *Delete* (evt Alt+D).
 
-1. Trykk på *Ajourhold* [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_ajourhold.webp){.glightbox}
+1. Trykk på *Ajourhold* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_ajourhold.webp){.glightbox}
 
     ??? quote "Brukerinput for Ajourhold"
 
@@ -106,9 +106,9 @@ kursøkten og i det neste skjermbildet velge *File* ⇒ *Delete* (evt Alt+D).
 
         Da må du sjekke at disse ikke kommer som aktive videre.
 
-        1. [Filtrer frem kurs](../felles/guie.pdf.md#filtrere-i-sits) i skjermbildet *EVE*[![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_skjermbilde.webp){.glightbox}
+        1. [Filtrer frem kurs](../felles/guide.md#filtrere-i-sits) i skjermbildet *EVE*[![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_skjermbilde.webp){.glightbox}
 
-        2. Fra toppmenyen går du til *Other* ⇒ *Students* [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_top.webp){.glightbox}
+        2. Fra toppmenyen går du til *Other* ⇒ *Students* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_top.webp){.glightbox}
 
         3. Fjern markering (grønn) for uker deltakere ikke skal være aktive på.
 
@@ -118,7 +118,7 @@ kursøkten og i det neste skjermbildet velge *File* ⇒ *Delete* (evt Alt+D).
 
 Prosess fjerner ikke bare selve kursøkten, men også eventuelle rom-, lærer- og deltakertimer som var knyttet til denne kursøkten. 
 
-1. [Filtrer frem kurs](../felles/guie.pdf.md#filtrere-i-sits) i skjermbildet *EVI*[![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_skjermbilde.webp){.glightbox}
+1. [Filtrer frem kurs](../felles/guide.md#filtrere-i-sits) i skjermbildet *EVI*[![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_skjermbilde.webp){.glightbox}
 
     ??? hint "Du kan filtrere på spesifikke ukedager"
 
@@ -138,7 +138,7 @@ Prosess fjerner ikke bare selve kursøkten, men også eventuelle rom-, lærer- o
 
 ## Endre varighet for kurs
 
-1. [Filtrer frem kurs](../felles/guie.pdf.md#filtrere-i-sits) i skjermbildet *EVI* [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_skjermbilde.webp){.glightbox}
+1. [Filtrer frem kurs](../felles/guide.md#filtrere-i-sits) i skjermbildet *EVI* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_skjermbilde.webp){.glightbox}
 
 2. Endre varighet for en og en rad
 
@@ -149,12 +149,12 @@ Prosess fjerner ikke bare selve kursøkten, men også eventuelle rom-, lærer- o
 
 ## Lage nytt kurs som er likt et eksisterende kurs
 
-1. [Filtrer frem kurs du baserer på](../felles/guie.pdf.md#filtrere-i-sits) i skjermbildet *EVE*[![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_skjermbilde.webp){.glightbox}
+1. [Filtrer frem kurs du baserer på](../felles/guide.md#filtrere-i-sits) i skjermbildet *EVE*[![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_skjermbilde.webp){.glightbox}
 
-2. Klikk på *Modify Event (MEV) [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_modify_event.webp){.glightbox}
+2. Klikk på *Modify Event (MEV) [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/men_modify_event.webp){.glightbox}
 
 3. Klikk på *Duplicate*
 
-4. [Filtrer frem nytt kurs](../felles/guie.pdf.md#filtrere-i-sits) i skjermbildet *EVE* [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_skjermbilde.webp){.glightbox}
+4. [Filtrer frem nytt kurs](../felles/guide.md#filtrere-i-sits) i skjermbildet *EVE* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_skjermbilde.webp){.glightbox}
 
-5. Endre *Gruppe ID* til et unikt, høyere tall og lagre [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/eve_gruppe_id.webp){.glightbox}
+5. Endre *Gruppe ID* til et unikt, høyere tall og lagre [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/eve_gruppe_id.webp){.glightbox}

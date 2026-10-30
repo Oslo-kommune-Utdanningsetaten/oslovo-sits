@@ -30,9 +30,9 @@
     Vi kan registrere disse, men det er ingen funksjoner tilknyttet dette per i dag.
     Dette er en forsøksfase, og det gjennstår å få avklart om disse får samme tilganger som deltakere på deres senter.
 
-    1. [Filtrer frem deltaker](../felles/guie.pdf.md#filtrere-i-sits) i skjermbildet *SPR*[![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_skjermbilde.webp){.glightbox}
+    1. [Filtrer frem deltaker](../felles/guide.md#filtrere-i-sits) i skjermbildet *SPR*[![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_skjermbilde.webp){.glightbox}
 
-    2. Fra toppmenyen går du til *Other* ⇒ *Module* ⇒ *Selections* [![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_top.webp){.glightbox}
+    2. Fra toppmenyen går du til *Other* ⇒ *Module* ⇒ *Selections* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_top.webp){.glightbox}
 
     3. Endre **Fagstatus** for faget som skal tas på ditt senter til
 

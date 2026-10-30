@@ -1,6 +1,6 @@
 # Finne undervisningsrom
 
-1. [Filtrer frem senteret](../felles/guie.pdf.md#filtrere-i-sits) i skjermbildet *SCL*[![bilde](../assets/images/gallery.svg){width="15"}](../../assets/images/meny_skjermbilde.webp){.glightbox}
+1. [Filtrer frem senteret](../felles/guide.md#filtrere-i-sits) i skjermbildet *SCL*[![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_skjermbilde.webp){.glightbox}
 
 2. Generer [*FOVO ROMOVR*](../felles/guide_pdf.md){.glightbox}
 
