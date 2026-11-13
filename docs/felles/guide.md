@@ -10,3 +10,9 @@ Du kan godt lese gjennom for en innføring, men det vil og lenkes til deler av d
 2. Trykk *F5*
 
 Merk at du i de fleste tilfeller kan bruke STU eller SPR nummer for å filtrere
+
+???+ tip "Avansert filtrering"
+
+    Les dette kapittelet for [**Avansert filtering**](../felles/avansert_filtrering.md)
+	
+
