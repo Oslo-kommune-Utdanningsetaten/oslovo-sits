@@ -23,6 +23,7 @@ nav:
         - Deltakerbehandling:
             - Registrere ny deltaker utenom servicesenteret: felles/ny_stu.md #F20, litt F04
             - Nytt studieløp for deltaker: felles/ny_spr.md #F07, F22
+            - Nytt studieløp/SPR for FEIDE tilgang: felles/ny_spr_feide.md #F07
             - Melde på eller av kurs: felles/bytte_klasse.md #F19, F08(8)
             - Føre fravær: felles/føre_fravær.md #F12
             - Sluttføre deltaker: felles/sluttføre.md #F08(4-6), F02
