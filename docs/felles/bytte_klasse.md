@@ -1,6 +1,74 @@
-# Bytte klasse på en deltaker
 
-## Melde en deltaker av og på kurs i Live
+# Melde på eller av kurs
+
+Det å legge deltakere på kurs og ta de ut av kurs kan gjøres i [e:Vision](#evision) eller i [SITS klient](#klient).
+
+## Melde en deltaker av og på kurs med Deltaker kurs behandling i e:Vision { #evision }
+
+**Deltaker kurs behandling** i e:Vision er en arbeidsprosess for å legge deltakere på kurs eller ta deltakere ut av kurs. Deltaker kurs behandling tilsvarer prosessen i SITS Vision Exchange Module (XSM) i SITS Vision. Deltaker kurs behandling er foretrukket fordi:
+
+* Kurs kan identifiseres med regnr i stedet for år, fag, forekomst og gruppe 
+
+* Det er mulig å velge både fra dato og til dato forskjellig fra kursets fra dato og til dato når man legger deltakere på kurs 
+
+* Med denne e:Vision arbeidsprosessen så unngår man problemer med SMO som sier at deltakeren ikke kan legges på kurs fordi den har SMO fra før. Man har heller ikke problemer med å ta deltakere ut av kurs fordi SMO mangler. 
+
+* Sluttføring av deltakere fra kurs der deltakeren har flere kurs med samme år, fag, forekomst virker slik at prosessen kun sluttfører fra det regnr som spesifiseres og ikke fra alle kurs med samme år, fag og forekomst slik det skjer med XSM 
+
+### Melde en deltaker av og på kurs i e:Vision
+
+1. Gå til menyen **Deltaker kurs behandling** under **Deltakerbehandling** i e:Visionskriv inn enten **Gruppe SPR** eller **SPR-kode** for å finne deltaker(e) du skal behandle [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/ek_beha_hentekriterier.png){.glightbox}
+
+    ??? tip "Jeg ønsker å definere en gruppe deltakere å behandle"
+
+        Dette kan gjøres via å redigere **Gruppe SPR** på disse deltakerne. Det kan gjøres via å finne en klasse i EVE og generere FOVO OPPSPR.
+
+    ??? tip "Du kan finne flere gjennom avansert filtrering"
+
+        Vi aksepterer bruk av * som filtrering her. Da kan du for eksempel ha gruppeSPR K32 og K33 og finne begge ved å filtrere på K3*.
+
+3. Huk av alle SPR du ønsker å sette på kurs og trykk **Fortsett** [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/ek_beha_treff.png){.glightbox}
+
+    ??? tip "Se alltid gjennom, og kanskje endre, gruppe SPR her"
+
+        Her får du lov til å se og endre GruppeSPR for deltakere (Lagres bare når du trykker fortsett). Det kan være nyttig å ha disse like, da dette kan gjøre det enklere å lage brev og slikt for klassen videre.
+
+4. Skriv inn **Reg nr.** for klassen, samt eventuell **startdato** og **sluttdato** [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/ek_beha_verdier.png){.glightbox}
+
+    ??? question "Når skal jeg ha med startdato eller sluttdato?"
+
+        Hvis du bare fyller inn regnr og lar start- og sluttdato være tomme felt så legges deltakeren på alle datoene som kurset går. Hvis en av start- eller sluttdato er fylt inn så vil deltakerene få kursdatoer slik du skriver. Skal du sluttføre fra et kurs **MÅ** du kun skrive inn Startdato som er datoen deltakeren skal sluttføres fra.
+
+    ??? warning "Endringer i **Gruppe SPR** er gjort selv om du trykker **Avbryt**"
+
+        Disse må da eventuellt endres til noe annet hvis du har gjort en feil.
+
+5. Velg **Legg på kurs** for å melde deltaker på, og **Sluttfør fra kurs** for å melde deltaker av [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/ek_beha_verdier.png){.glightbox}
+
+6. Les gjennom og trykk **Neste** [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/ek_beha_bekreft.png){.glightbox}
+
+    ??? warning "Listen er ikke slik jeg forventet"
+
+        Dette er sansynligvis fordi du har gjort en endring i **Gruppe SPR** for noen, og SITS henter da bare ut det originale utvalget.
+        Du kan fikse dette med å sette **Gruppe SPR** til det samme for hele gruppen du vil jobbe med.
+
+        Har du ikke endret **Gruppe SPR** burde du ta kontakt med din SITS-ansvarlige.
+
+7. Les gjennom prosessrapport for deltakerene og trykk **Fortsett** [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/ek_beha_bekreftelse.png){.glightbox}
+
+    ??? warning "Status er ikke **OK** for en eller flere deltakere"
+
+        Hvis noen deltakere ikke kan bli plassert må du sjekke opp hvorfor før du evt. fikser.
+
+        *Clash* betyr at deltakeren har andre kurs som går til samme tid. Da må deltaker meldes av et av kursene.
+
+        Fulle kurs kan oppstå når deltakertallet overstiger det som står enten i **MAV** eller **EVE**. Da må det gjøres en vurdering om hva som skal gjøres.
+
+        Er du usikker på hva som er galt, noter ned SPR-koder det ikke gikk for, hva som var ønsket og send en forespørsel til SITS-ansvarlige ved ditt senter.
+		
+8. Velg om du vil utføre en **Clashsjekk** eller om du vil velge **Avslutt**
+		
+## Melde en deltaker av og på kurs i SITS klient { #klient }
 
 1. Slå opp deltaker i SPR [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/tmp.webp){.glightbox}
 2. Gå via **Current**, **Schedule Timetable** til **Exchange module** [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/tmp.webp){.glightbox}
