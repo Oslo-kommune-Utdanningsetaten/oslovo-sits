@@ -25,13 +25,13 @@
         4. **Adresse** skal være **Drammensveien 1, 0001 OSLO**
         5. **E-post** og **Mobil** skal være tomt
 
-    2. Hvis deltaker har et ønsket alias settes dette som **Navn i bruk** i STU [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/tmp.webp){.glightbox}
+    2. Hvis deltaker har et ønsket alias settes dette som **Navn i bruk** i STU [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/stu_navn_i_bruk.png){.glightbox}
 
-    3. Gå til **SPD** og legg inn et nytt **SKJ**-vedtak [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/tmp.webp){.glightbox}
+    3. Gå til STU og hent fram deltakeren og velg **Other ➜ Personal Details** for å komme til **SPD**. I SPD taster kan du lage et nytt vedtak med type SKJ. [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/spd_skjermet_1.png){.glightbox}
 
-        ??? warning "Det finnes allerede en SPD"
+        ???+ warning "Det finnes allerede en SPD"
 
-            Hvis **Sekvensnr** allerede eksisterer, jekk hvilke **Sekvensnr** som finnes ved å filtrere frem STU-nummeret og lag så en ny der **Sekvensnr** er en over det høyeste eksisterende.
+            Hvis det allerede eksisterer poster i SPD, så tast  Ctrl+N for å lage nytt **SKJ**-vedtak.
     
     4. Fyll inn reell informasjon i **Merknad**
 
@@ -44,9 +44,10 @@
 
     5. Lagre slik at det skjules
 
-        ??? warning "Dobbeltsjekk før du lagrer"
+        ???+ warning "Dobbeltsjekk før du lagrer"
 
-            Når du lagrer her kan du ikke lengre endre på det. Er uhellet ute må du ta kontakt med SITS-ansvarlige på ditt senter.
+            Når du lagrer her kan du ikke lengre endre på det uten å skrive inn passordet som kan åpne vedtak av type SKJ og FAD. 
+			Det skal være en person på hvert senter som kjenner dette passordet. 
 
 
 
@@ -61,30 +62,31 @@
         [utenfor Servicesenteret](../felles/ny_stu.md) 
         [for Servicesenteret](../felles/ny_stu.md)
 
-    2. Gå til **SPD** og legg inn reell addresse [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/tmp.webp){.glightbox}
+    2. Gå til STU og hent fram deltakeren og velg **Other ➜ Personal Details** for å komme til **SPD**. I SPD taster kan du lage et nytt vedtak med type FAD. [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/spd_skjermet_1.png){.glightbox}
 
     3. Lagre slik at det skjules
 
-        ??? warning "Dobbeltsjekk før du lagrer"
+        ???+ warning "Dobbeltsjekk før du lagrer"
 
-            Når du lagrer her kan du ikke lengre endre på det. Er uhellet ute må du ta kontakt med SITS-ansvarlige på ditt senter.
+            Når du lagrer her kan du ikke lengre endre på det uten å skrive inn passordet som kan åpne vedtak av type SKJ og FAD. 
+			Det skal være en person på hvert senter som kjenner dette passordet. 
 
 
 ## Særbehandling av skjermede deltakere i studieløp
 
 ### Finne kontaktinformasjon til skjermede personer
 
-1. Ta kontakt med SITS-ansvarlig ved ditt senter og etterspør passord.
-2. Bruk passordet for å låse opp kontaktinformasjon i SPD [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/tmp.webp){.glightbox}
+1. Ta kontakt med SITS-ansvarlig ved ditt senter og etterspør opplysningene.
+
 
 ### Sende brev og vedtak til skjermede personer
 
 ??? warning "Husk at brev til skjermede personer ikke sendes til Websak!"
 
 1. Generer brevet som vanlig
-2. Fra samme skjermbilde går du til **Goto**, **Related Documents** [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/tmp.webp){.glightbox}
+2. Fra samme skjermbilde går du til **Goto** ➜ **Related Documents** 
 3. Let deg frem til riktig brev via **Preview**
-4. Skriv ut brevet [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/tmp.webp){.glightbox}
+4. Skriv ut brevet 
 5. Distribuer til deltaker på den måten deltaker ønsker
 
     ??? tip "Hvordan kan vi gi brevet til deltaker?"
