@@ -12,46 +12,57 @@
 1. Avjør hvilken metode som passer for registreringen
 
     1. Via eVision
-        1. Deltaker har SPR med samme program
+        * Deltaker har SPR fra før som ikke krever innsøking hos Servicesenteret. 
+		* Deltaker har SPR fra før med kurshistorikk og med samme program, men trenger ny rettighet.
     2. Via ATR
-        1. Deltakeren er i første innsøking til kurs i norsk, samfunnsfag eller FOV
+        * Deltakeren er i første innsøking til kurs i norsk, samfunnsfag eller FOV
     3. Via QSS
-        1. Deltaker skal ha ny SPR som ikke krever innsøking hos Servicesenteret
+        * Deltaker skal ha ny SPR som ikke krever innsøking hos Servicesenteret
 
 
 === "Via eVision"
 
-    1. Trykk på **Lage ny SPR ved endring av program/rettighet** [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/tmp.webp){.glightbox}
-    2. Skriv inn informasjon om deltaker, og klikk **Søk** [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/tmp.webp){.glightbox}
+## Lage ny SPR ved endring av program/rettighet
+Med denne menyen kan du lage en ny SPR i e:Vision og samtidig flytte en deltakers aktive kurs over til den nye SPR’en. Hvis det er NIR deltaker kan du også lage vedtak i denne prosessen. Grunnen til at vi må lage flere SPR på en deltaker er at vi må kunne skille fra hverandre hvor mange timer en deltaker har med de ulike programmene/rettighetene.
 
-        ??? hint "STU er ofte det enkleste"
+???+ tip "Deltakeren ikke har timer i SITS"
 
-            Selv om du kan filtrere deltakere med navn, fødelsnummer etc. Anbefaler vi at mye kommunikasjon går med STU-nummer. Dette gjør det både enkelt å sikre at du behandler riktig deltaker, og kan holde kommunikasjonen anonym.
-
-    3. Velg det studielpet (SPR) som skal danne grunnlag for ny SPR [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/tmp.webp){.glightbox}
-
-        ??? warning "Deltaker er aktiv på SPR jeg kopierer"
-
-            Hvis deltaker er aktiv på en SPR du endrer på må du sluttføre den deltaker er aktiv på. Ta kontakt med deltakerkontoret SPR er knyttet til hvis du ikke jobber der.
-    
-    4. Velg verdier for ny SPR [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/tmp.webp){.glightbox}
+	Hvis deltakeren ikke har timer i SITS fra før, trenger man heller ikke å lage ny SPR. Man kan da endre den gamle program og rettighet på den SPR’en. 
 
 
-        ??? hint "Du trenger bare vurdere Samfo-SPR hvis det lages et NNIR program!"
+1. Gå til menyen **SITS bruker** og velg **Lage ny SPR ved endring av program/rettighet** 
+	
+2. Skriv inn informasjon om deltaker, og klikk **Søk** [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/ne_sp_pod.png){.glightbox}
 
-            Med mindre du lager en ren Samfo SPR er tilleg med Samfo SPR bare å vurdere hvis en deltaker går over til en NiR-rettighet, og ikke har fullført samfo fra før.
+	???+ hint "STU er ofte det enkleste"
 
-    5. Se gjennom hvordan ny SPR vil bli seende ut [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/tmp.webp){.glightbox}
+		Selv om du kan filtrere deltakere med navn, fødelsnummer etc. Anbefaler vi at mye kommunikasjon går med STU-nummer. Dette gjør det både enkelt å sikre at du behandler riktig deltaker, og kan holde kommunikasjonen anonym.
 
-    6. Trykk **Fullfør**
+3. Velg det studielpet (SPR) som skal danne grunnlag for ny SPR [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/ne_sp_velg_spr.png){.glightbox}
 
-        ??? warning "Ikke bare gå ut, trykk fullfør!"
+	??? warning "Deltaker er aktiv på SPR jeg kopierer"
 
-            Selv om den nye SPR-en er laget, er det viktig å klikke på Fullfør, for da kjøres et skjult steg med opprydding av data som ligger igjen etter arbeidsoppgaven. 
+		Hvis deltaker skal fortsette i samme kurs/klasse, men med nytt program/rettighet, så kan du velge Ja i nedtrekksmenyen **Flytte kursaktivitet (timer og fravær) fra gammel til ny SPR fra datoen som er valgt ovenfor?**. Den opprinnelige SPR'en vil få endret status til BR - Byttet rettighet.
+		
+
+4. Velg verdier for ny SPR [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/ne_sp_verdier.png){.glightbox}
+
+	??? hint "Du trenger bare vurdere Samfo-SPR hvis det lages et NNIR program!"
+
+		Med mindre du lager en ren Samfo SPR er tilleg med Samfo SPR bare å vurdere hvis en deltaker går over til en NiR-rettighet, og ikke har fullført samfo fra før.
+			
+5. Se gjennom hvordan ny SPR vil bli seende ut og trykk **Neste** hvis alt er OK [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/ne_sp_bekreft.png){.glightbox}
+
+6. I siste skjermbildet skal du Trykke **Fullfør**
+
+	??? warning "Ikke bare gå ut, trykk fullfør!"
+
+		Selv om den nye SPR-en er laget, er det viktig å klikke på Fullfør, for da kjøres et skjult steg med opprydding av data som ligger igjen etter arbeidsoppgaven. 
+
 
 === "Via ATR"
 
-    ??? warning "Metode ment for Servicesenteret"
+    ???+ warning "Metode ment for Servicesenteret"
 
         Hvis du har en deltaker som passer kategorien for registrering via ATR, og ikke er behandler på Servicesenteret, burde du kontakte Servicesenteret om denne deltakeren.
     

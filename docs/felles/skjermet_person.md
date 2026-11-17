@@ -62,7 +62,7 @@
         [utenfor Servicesenteret](../felles/ny_stu.md) 
         [for Servicesenteret](../felles/ny_stu.md)
 
-    2. Gå til STU og hent fram deltakeren og velg **Other ➜ Personal Details** for å komme til **SPD**. I SPD taster kan du lage et nytt vedtak med type FAD. [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/spd_skjermet_1.png){.glightbox}
+    2. Gå til STU og hent fram deltakeren og velg **Other ➜ Personal Details** for å komme til **SPD**. I SPD kan du lage et nytt vedtak med type FAD. [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/spd_skjermet_1.png){.glightbox}
 
     3. Lagre slik at det skjules
 

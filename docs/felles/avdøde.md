@@ -14,7 +14,7 @@
 
 3. Sett *MST type* til "Deceased" og lagre
 
-4. For alle SPR deltaker har settes *SPR status* til "AD"
+4. For alle SPR deltaker har setter du *SPR status* til "AD"
 
 5. Gå til STU og slett addresse for deltaker.
 
