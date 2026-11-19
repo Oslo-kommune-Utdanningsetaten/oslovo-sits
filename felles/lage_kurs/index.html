@@ -1869,6 +1869,17 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#slette-et-kurs-fra-eve" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Slette et kurs fra EVE
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#fjerne-kurskter" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -1895,17 +1906,6 @@
     <span class="md-ellipsis">
       
         Endre varighet for kurs
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#lage-nytt-kurs-som-er-likt-et-eksisterende-kurs" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Lage nytt kurs som er likt et eksisterende kurs
       
     </span>
   </a>
@@ -3873,6 +3873,17 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#slette-et-kurs-fra-eve" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Slette et kurs fra EVE
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#fjerne-kurskter" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -3899,17 +3910,6 @@
     <span class="md-ellipsis">
       
         Endre varighet for kurs
-      
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#lage-nytt-kurs-som-er-likt-et-eksisterende-kurs" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Lage nytt kurs som er likt et eksisterende kurs
       
     </span>
   </a>
@@ -4107,12 +4107,20 @@ Trykk <em>cancel</em> og se gjennom, eller kontakt sits-ansvarlig hvis du er usi
 </li>
 </ol>
 <h2 id="legge-til-en-ekstra-klasseeve-med-modify-event">Legge til en ekstra klasse/EVE med Modify Event</h2>
+<p>Denne metoden passer hvis du vil lage et kurs som går på samme tidspunkt som et eksisterende kurs.</p>
 <ol>
-<li>Start med å finne fram kurset du vil lage en kopi av i EVE og klikk på<br>
-Modify Event (MEV).  <a class="glightbox" href="../../assets/images/modify_event_knapp.png"><img alt="bilde" src="../../assets/images/gallery.svg" width="15"></a></li>
-</ol>
+<li>
+<p>Start med å finne fram kurset du vil lage en kopi av i EVE og klikk på<br>
+Modify Event (MEV).  <a class="glightbox" href="../../assets/images/modify_event_knapp.png"><img alt="bilde" src="../../assets/images/gallery.svg" width="15"></a></p>
+</li>
+<li>
 <p>I neste skjermbildet du får opp vil du se detaljer fra kurset til høyre i skjermbildet. Til venstre i skjermbildet kan du klikke på knappe Duplicate. Nå vil meldingslinja nederst vise: <em>1 events duplicated of which 0 clash.</em> Oppe i bilde vises det nye reg nummeret for kurset. Kurset blir først opprettet når du har klikket på knappen <em>Store.</em> Meldingslinja viser da <em>Events updated successfully</em> <a class="glightbox" href="../../assets/images/modify_event_skjermbilde.png"><img alt="bilde" src="../../assets/images/gallery.svg" width="15"></a></p>
-<p>Husk også at når vi har flere kurs med samme skoleår, fag og forekomst så skal alle EVE'ene ha unike gruppe-ID. Det nye kurset som du lagde vil arve gruppe-ID fra kurset som du tok utgangspunkt i, og du må gi det en ny og unik gruppe-ID i skjermbildet EVE.</p>
+</li>
+<li>
+<p>Endre <em>Gruppe ID</em> til et unikt, høyere tall og lagre <a class="glightbox" href="../../assets/images/eve_gruppe_id.webp"><img alt="bilde" src="../../assets/images/gallery.svg" width="15"></a>
+Husk også at når vi har flere kurs med samme skoleår, fag og forekomst så skal alle EVE'ene ha unike gruppe-ID. Det nye kurset som du lagde vil arve gruppe-ID fra kurset som du tok utgangspunkt i, og du må gi det en ny og unik gruppe-ID i skjermbildet EVE.</p>
+</li>
+</ol>
 <h2 id="legge-til-kurskter-pa-eve">Legge til kursøkter på EVE</h2>
 <p>Når du har et nygenerert kurs/EVE med metoden over, så vil den inneholde en kursøkt på en 
 lørdag (dag 6) i SITS uke 4. Den kan du fjerne fra EVE ved å klikke på den doble pila ved 
@@ -4161,6 +4169,10 @@ kursøkten og i det neste skjermbildet velge <em>File</em> ⇒ <em>Delete</em> (
 </tbody>
 </table>
 </div>
+<details class="hint">
+<summary>Finne SITS-uker vs kalenderuke</summary>
+<p>Fra skjermbildet PRS kan du hente fram en post og kjøre en rapport fra menyen <strong>Current ➜ Gen+Print letters</strong> med kode <strong>FOVO KALUKE</strong> - Kalenderuke vs SITS uke for å se sammenhengen mellom SITS uke og kalenderuke.</p>
+</details>
 <details class="warning">
 <summary>Jeg vil ha forskjellig tid på forskjellige dager</summary>
 <p>Da kjører du Ajourhold to ganger,</p>
@@ -4185,11 +4197,13 @@ kursøkten og i det neste skjermbildet velge <em>File</em> ⇒ <em>Delete</em> (
 </details>
 </li>
 </ol>
+<h2 id="slette-et-kurs-fra-eve">Slette et kurs fra EVE</h2>
+<p>Sletting av hele kurs fra EVE må bestilles fra SITS via USD.    </p>
 <h2 id="fjerne-kurskter">Fjerne kursøkter</h2>
 <p>Prosess fjerner ikke bare selve kursøkten, men også eventuelle rom-, lærer- og deltakertimer som var knyttet til denne kursøkten. </p>
 <ol>
 <li>
-<p><a href="../guide/#filtrere-i-sits">Filtrer frem kurs</a> i skjermbildet <em>EVI</em><a class="glightbox" href="../../assets/images/meny_skjermbilde.webp"><img alt="bilde" src="../../assets/images/gallery.svg" width="15"></a></p>
+<p><a href="../guide/#filtrere-i-sits">Filtrer frem kurs</a> i skjermbildet <em>EVI</em> <a class="glightbox" href="../../assets/images/meny_skjermbilde.webp"><img alt="bilde" src="../../assets/images/gallery.svg" width="15"></a></p>
 <details class="hint">
 <summary>Du kan filtrere på spesifikke ukedager</summary>
 <p>Skriv tall for ukedagen under <em>Dag</em>, så kommer bare de kursøktene opp.</p>
@@ -4229,24 +4243,6 @@ kursøkten og i det neste skjermbildet velge <em>File</em> ⇒ <em>Delete</em> (
 <p>Lagre</p>
 </li>
 </ol>
-<h2 id="lage-nytt-kurs-som-er-likt-et-eksisterende-kurs">Lage nytt kurs som er likt et eksisterende kurs</h2>
-<ol>
-<li>
-<p><a href="../guide/#filtrere-i-sits">Filtrer frem kurs du baserer på</a> i skjermbildet <em>EVE</em><a class="glightbox" href="../../assets/images/meny_skjermbilde.webp"><img alt="bilde" src="../../assets/images/gallery.svg" width="15"></a></p>
-</li>
-<li>
-<p>Klikk på *Modify Event (MEV) <a class="glightbox" href="../../assets/images/men_modify_event.webp"><img alt="bilde" src="../../assets/images/gallery.svg" width="15"></a></p>
-</li>
-<li>
-<p>Klikk på <em>Duplicate</em></p>
-</li>
-<li>
-<p><a href="../guide/#filtrere-i-sits">Filtrer frem nytt kurs</a> i skjermbildet <em>EVE</em> <a class="glightbox" href="../../assets/images/meny_skjermbilde.webp"><img alt="bilde" src="../../assets/images/gallery.svg" width="15"></a></p>
-</li>
-<li>
-<p>Endre <em>Gruppe ID</em> til et unikt, høyere tall og lagre <a class="glightbox" href="../../assets/images/eve_gruppe_id.webp"><img alt="bilde" src="../../assets/images/gallery.svg" width="15"></a></p>
-</li>
-</ol>
 
 
 
@@ -4267,7 +4263,7 @@ kursøkten og i det neste skjermbildet velge <em>File</em> ⇒ <em>Delete</em> (
     <span class="md-icon" title="Sist oppdatert">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"></path></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="19. november 2026 14:44:08 UTC">19. november 2026</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="19. november 2026 15:52:02 UTC">19. november 2026</span>
   </span>
 
     
