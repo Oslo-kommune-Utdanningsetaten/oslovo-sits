@@ -66,7 +66,7 @@
 
 4. Klikk på *View Messages* for å se hvor mange EVE du har generert
 
-## Legge til en ekstra klasse/EVE
+## Legge til en ekstra klasse/EVE med MAV og GEV
 
 1. [Filtrer frem kurs du baserer på](../felles/guide.md#filtrere-i-sits) i skjermbildet *MAV*[![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_skjermbilde.webp){.glightbox}
 
@@ -76,7 +76,19 @@
 
 3. Gjør prosess over med å lage EVE igjen for oppdatert MAV
 
+## Legge til en ekstra klasse/EVE med Modify Event 
+
+1. Start med å finne fram kurset du vil lage en kopi av i EVE og klikk på  
+Modify Event (MEV).  [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/modify_event_knapp.png){.glightbox}
+
+I neste skjermbildet du får opp vil du se detaljer fra kurset til høyre i skjermbildet. Til venstre i skjermbildet kan du klikke på knappe Duplicate. Nå vil meldingslinja nederst vise: *1 events duplicated of which 0 clash.* Oppe i bilde vises det nye reg nummeret for kurset. Kurset blir først opprettet når du har klikket på knappen *Store.* Meldingslinja viser da *Events updated successfully* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/modify_event_skjermbilde.png){.glightbox}
+
+
+
+Husk også at når vi har flere kurs med samme skoleår, fag og forekomst så skal alle EVE'ene ha unike gruppe-ID. Det nye kurset som du lagde vil arve gruppe-ID fra kurset som du tok utgangspunkt i, og du må gi det en ny og unik gruppe-ID i skjermbildet EVE.
+
 ## Legge til kursøkter på EVE
+
 
 Når du har et nygenerert kurs/EVE med metoden over, så vil den inneholde en kursøkt på en 
 lørdag (dag 6) i SITS uke 4. Den kan du fjerne fra EVE ved å klikke på den doble pila ved 
