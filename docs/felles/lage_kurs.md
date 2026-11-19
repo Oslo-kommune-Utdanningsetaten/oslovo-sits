@@ -78,13 +78,14 @@
 
 ## Legge til en ekstra klasse/EVE med Modify Event 
 
+Denne metoden passer hvis du vil lage et kurs som går på samme tidspunkt som et eksisterende kurs.
+
 1. Start med å finne fram kurset du vil lage en kopi av i EVE og klikk på  
 Modify Event (MEV).  [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/modify_event_knapp.png){.glightbox}
 
-I neste skjermbildet du får opp vil du se detaljer fra kurset til høyre i skjermbildet. Til venstre i skjermbildet kan du klikke på knappe Duplicate. Nå vil meldingslinja nederst vise: *1 events duplicated of which 0 clash.* Oppe i bilde vises det nye reg nummeret for kurset. Kurset blir først opprettet når du har klikket på knappen *Store.* Meldingslinja viser da *Events updated successfully* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/modify_event_skjermbilde.png){.glightbox}
+2. I neste skjermbildet du får opp vil du se detaljer fra kurset til høyre i skjermbildet. Til venstre i skjermbildet kan du klikke på knappe Duplicate. Nå vil meldingslinja nederst vise: *1 events duplicated of which 0 clash.* Oppe i bilde vises det nye reg nummeret for kurset. Kurset blir først opprettet når du har klikket på knappen *Store.* Meldingslinja viser da *Events updated successfully* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/modify_event_skjermbilde.png){.glightbox}
 
-
-
+3. Endre *Gruppe ID* til et unikt, høyere tall og lagre [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/eve_gruppe_id.webp){.glightbox}
 Husk også at når vi har flere kurs med samme skoleår, fag og forekomst så skal alle EVE'ene ha unike gruppe-ID. Det nye kurset som du lagde vil arve gruppe-ID fra kurset som du tok utgangspunkt i, og du må gi det en ny og unik gruppe-ID i skjermbildet EVE.
 
 ## Legge til kursøkter på EVE
@@ -110,6 +111,10 @@ kursøkten og i det neste skjermbildet velge *File* ⇒ *Delete* (evt Alt+D).
 
     </div>
 
+    ??? hint "Finne SITS-uker vs kalenderuke"
+
+        Fra skjermbildet PRS kan du hente fram en post og kjøre en rapport fra menyen **Current ➜ Gen+Print letters** med kode **FOVO KALUKE** - Kalenderuke vs SITS uke for å se sammenhengen mellom SITS uke og kalenderuke.
+
     ??? warning "Jeg vil ha forskjellig tid på forskjellige dager"
 
         Da kjører du Ajourhold to ganger,
@@ -125,12 +130,17 @@ kursøkten og i det neste skjermbildet velge *File* ⇒ *Delete* (evt Alt+D).
         3. Fjern markering (grønn) for uker deltakere ikke skal være aktive på.
 
         4. lagre
+		
+		
+## Slette et kurs fra EVE
+
+Sletting av hele kurs fra EVE må bestilles fra SITS via USD.	
 
 ## Fjerne kursøkter
 
 Prosess fjerner ikke bare selve kursøkten, men også eventuelle rom-, lærer- og deltakertimer som var knyttet til denne kursøkten. 
 
-1. [Filtrer frem kurs](../felles/guide.md#filtrere-i-sits) i skjermbildet *EVI*[![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_skjermbilde.webp){.glightbox}
+1. [Filtrer frem kurs](../felles/guide.md#filtrere-i-sits) i skjermbildet *EVI* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_skjermbilde.webp){.glightbox}
 
     ??? hint "Du kan filtrere på spesifikke ukedager"
 
@@ -159,14 +169,3 @@ Prosess fjerner ikke bare selve kursøkten, men også eventuelle rom-, lærer- o
 3. Lagre
 
 
-## Lage nytt kurs som er likt et eksisterende kurs
-
-1. [Filtrer frem kurs du baserer på](../felles/guide.md#filtrere-i-sits) i skjermbildet *EVE*[![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_skjermbilde.webp){.glightbox}
-
-2. Klikk på *Modify Event (MEV) [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/men_modify_event.webp){.glightbox}
-
-3. Klikk på *Duplicate*
-
-4. [Filtrer frem nytt kurs](../felles/guide.md#filtrere-i-sits) i skjermbildet *EVE* [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/meny_skjermbilde.webp){.glightbox}
-
-5. Endre *Gruppe ID* til et unikt, høyere tall og lagre [![bilde](../assets/images/gallery.svg){width="15"}](../assets/images/eve_gruppe_id.webp){.glightbox}
